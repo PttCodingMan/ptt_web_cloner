@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>分類看板 - 批踢踢實業坊</title>
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-print.css" media="print">
+
+
+
+
+	<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+    <body>
+		
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/bbs/">批踢踢實業坊</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+
+<div id="main-container">
+	<div id="action-bar-container">
+		<div class="action-bar">
+			<div class="btn-group btn-group-cls">
+				<a class="btn" href="/bbs/hotboards.html">熱門看板</a>
+                <a class="btn selected" href="/cls/1">分類看板</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="b-list-container action-bar-margin bbs-screen">
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Sango_M_SLG/index.html">
+                <div class="board-name">Sango_M_SLG</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">三國</div>
+                <div class="board-title">&#9678;[KOEI] 三國志・戰略版 徵求板主中</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/LineageW/index.html">
+                <div class="board-name">LineageW</div>
+                <div class="board-nuser">7</div>
+                <div class="board-class">天堂</div>
+                <div class="board-title">&#9678;[天堂] 天堂W</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/AGA/index.html">
+                <div class="board-name">AGA</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">手遊</div>
+                <div class="board-title">&#9678;[AGA] 戰女連動圓滿落幕|主線更新</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Arknights/index.html">
+                <div class="board-name">Arknights</div>
+                <div class="board-nuser"><span class="hl f3">15</span></div>
+                <div class="board-class">手遊</div>
+                <div class="board-title">&#9678;[方舟] 台服快追上陸服了</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/AzurLane/index.html">
+                <div class="board-name">AzurLane</div>
+                <div class="board-nuser"><span class="hl f3">37</span></div>
+                <div class="board-class">手遊</div>
+                <div class="board-title">&#9678;[碧航] 作戦準備・ロイヤル</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/CoC/index.html">
+                <div class="board-name">CoC</div>
+                <div class="board-nuser">1</div>
+                <div class="board-class">手遊</div>
+                <div class="board-title">&#9678;[COC] 部落衝突 超級部隊</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/CrashFever/index.html">
+                <div class="board-name">CrashFever</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">手遊</div>
+                <div class="board-title">&#9678;[CF] 轉蛋有去無回，課金前請觀望</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/FATE_GO/index.html">
+                <div class="board-name">FATE_GO</div>
+                <div class="board-nuser"><span class="hl">94</span></div>
+                <div class="board-class">手遊</div>
+                <div class="board-title">&#9678;[FGO] 台 泳裝殺生院PU池活動期間</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/GirlsFront/index.html">
+                <div class="board-name">GirlsFront</div>
+                <div class="board-nuser">5</div>
+                <div class="board-class">手遊</div>
+                <div class="board-title">&#9678;[少前] 少女前線</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/LineGames/index.html">
+                <div class="board-name">LineGames</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">手遊</div>
+                <div class="board-title">&#9678;Line Games熊大跟莎莉的園地</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/MapleStoryM/index.html">
+                <div class="board-name">MapleStoryM</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">手遊</div>
+                <div class="board-title">&#9678;[楓Ｍ] 五月改版經驗調高</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/MercStoria/index.html">
+                <div class="board-name">MercStoria</div>
+                <div class="board-nuser">1</div>
+                <div class="board-class">手遊</div>
+                <div class="board-title">&#9678;[梅露可] 素材週</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Mobile-game/index.html">
+                <div class="board-name">Mobile-game</div>
+                <div class="board-nuser"><span class="hl f3">26</span></div>
+                <div class="board-class">手遊</div>
+                <div class="board-title">&#9678;[手遊] 版主徵求中 手機遊戲討論</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Onmyoji/index.html">
+                <div class="board-name">Onmyoji</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">手遊</div>
+                <div class="board-title">&#9678;[陰陽師]陰陽師五週年 感謝有你</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/PCReDive/index.html">
+                <div class="board-name">PCReDive</div>
+                <div class="board-nuser"><span class="hl f3">25</span></div>
+                <div class="board-class">手遊</div>
+                <div class="board-title">&#9678;[公連] 臺新年/日財寶守護者</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/RO_Mobile/index.html">
+                <div class="board-name">RO_Mobile</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">手遊</div>
+                <div class="board-title">&#9678;[仙境] 歡迎討論新世代的誕生</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Sheena/index.html">
+                <div class="board-name">Sheena</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">手遊</div>
+                <div class="board-title">&#9678;【技能挑戰】戰術交流大會</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/StrikeShoot/index.html">
+                <div class="board-name">StrikeShoot</div>
+                <div class="board-nuser">9</div>
+                <div class="board-class">手遊</div>
+                <div class="board-title">&#9678;[彈珠] 阿勒勒~ 好奇怪~ 寶珠呢？</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/SummonersWar/index.html">
+                <div class="board-name">SummonersWar</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">手遊</div>
+                <div class="board-title">&#9678;[魔靈] 召喚</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/SummonsBoard/index.html">
+                <div class="board-name">SummonsBoard</div>
+                <div class="board-nuser">1</div>
+                <div class="board-class">手遊</div>
+                <div class="board-title">&#9678;[召喚圖板] 2021 7週年前祭</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/WhiteCat/index.html">
+                <div class="board-name">WhiteCat</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">手遊</div>
+                <div class="board-title">&#9678;[白貓] 日版刀劍合作</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/miHoYo/index.html">
+                <div class="board-name">miHoYo</div>
+                <div class="board-nuser"><span class="hl">71</span></div>
+                <div class="board-class">米哈</div>
+                <div class="board-title">&#9678;[米哈遊] 崩三5週年/原神2.7前瞻</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/ChainChron/index.html">
+                <div class="board-name">ChainChron</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">扮演</div>
+                <div class="board-title">&#9678;日-無明の魔神  台-澤爾薩爾 Fes </div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/GBF/index.html">
+                <div class="board-name">GBF</div>
+                <div class="board-nuser"><span class="hl f3">37</span></div>
+                <div class="board-class">扮演</div>
+                <div class="board-title">&#9678;[碧藍] 古戰場結束了YO</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/MysticWiz/index.html">
+                <div class="board-name">MysticWiz</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">扮演</div>
+                <div class="board-title">&#9678;  超‧超魔導列傳 終終極女孩！</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/PokemonGO/index.html">
+                <div class="board-name">PokemonGO</div>
+                <div class="board-nuser"><span class="hl">109</span></div>
+                <div class="board-class">抓寶</div>
+                <div class="board-title">&#9678;[PMGO] WCS報名至26號&amp;徵文至31號</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/NUcarnival/index.html">
+                <div class="board-name">NUcarnival</div>
+                <div class="board-nuser">6</div>
+                <div class="board-class">狂歡</div>
+                <div class="board-title">&#9678;玖夜生日快樂！</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/KIRARA/index.html">
+                <div class="board-name">KIRARA</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">芳文</div>
+                <div class="board-title">&#9678;大人胡桃、悠里 | 婚紗</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Battlegirlhs/index.html">
+                <div class="board-name">Battlegirlhs</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">動作</div>
+                <div class="board-title">&#9678;[戰女] AGA2度 本篇復活無望</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Sub_GMobile/index.html">
+                <div class="board-name">Sub_GMobile</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">組務</div>
+                <div class="board-title">&#9678;手機遊戲小組(G_Mobile)組務板 </div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/UmaMusume/index.html">
+                <div class="board-name">UmaMusume</div>
+                <div class="board-nuser"><span class="hl f3">34</span></div>
+                <div class="board-class">賽馬</div>
+                <div class="board-title">&#9678;[馬娘] 金牛盃/0529 19:00生放</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/PuzzleDragon/index.html">
+                <div class="board-name">PuzzleDragon</div>
+                <div class="board-nuser"><span class="hl">129</span></div>
+                <div class="board-class">轉珠</div>
+                <div class="board-title">&#9678;[P＆D] 物語系列合作復刻</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/ToS/index.html">
+                <div class="board-name">ToS</div>
+                <div class="board-nuser"><span class="hl">169</span></div>
+                <div class="board-class">轉珠</div>
+                <div class="board-title">&#9678;[神魔] 藍羊</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/ArenaOfValor/index.html">
+                <div class="board-name">ArenaOfValor</div>
+                <div class="board-nuser"><span class="hl f3">17</span></div>
+                <div class="board-class">競技</div>
+                <div class="board-title">&#9678;[傳說對決] 20220118 全新改版</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/BrawlStars/index.html">
+                <div class="board-name">BrawlStars</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">競技</div>
+                <div class="board-title">&#9678;網友自創地圖超有創意~~</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/ClashRoyale/index.html">
+                <div class="board-name">ClashRoyale</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">競技</div>
+                <div class="board-title">&#9678;[皇室] 對弈愉快。</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/BrownDust/index.html">
+                <div class="board-name">BrownDust</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">觀察</div>
+                <div class="board-title">&#9678;BrownDust 棕色塵埃 恭喜開版！</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Crusaders/index.html">
+                <div class="board-name">Crusaders</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">觀察</div>
+                <div class="board-title">&#9678;克魯賽德戰記 第二季：繼承</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Dota_Legend/index.html">
+                <div class="board-name">Dota_Legend</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">觀察</div>
+                <div class="board-title">&#9678;[刀塔] 氪金之子</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Ingress/index.html">
+                <div class="board-name">Ingress</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">觀察</div>
+                <div class="board-title">&#9678;R.I.P. REDACTED</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Line_OPTC/index.html">
+                <div class="board-name">Line_OPTC</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">觀察</div>
+                <div class="board-title">&#9678;[OPTC] 空虛 寂寞 覺得冷</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/OnmyojiArena/index.html">
+                <div class="board-name">OnmyojiArena</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">觀察</div>
+                <div class="board-title">&#9678;[決戰平安京] 徵文活動結束</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Rayark/index.html">
+                <div class="board-name">Rayark</div>
+                <div class="board-nuser">1</div>
+                <div class="board-class">觀察</div>
+                <div class="board-title">&#9678;[雷亞][Rayark]雷亞遊戲討論板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/SevenSins_M/index.html">
+                <div class="board-name">SevenSins_M</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">觀察</div>
+                <div class="board-title">&#9678;《七大罪：光與暗之交戰》</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/TerraBattle/index.html">
+                <div class="board-name">TerraBattle</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">觀察</div>
+                <div class="board-title">&#9678;[TB] 服務終了 珍重再見</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/ToS_Match/index.html">
+                <div class="board-name">ToS_Match</div>
+                <div class="board-nuser">1</div>
+                <div class="board-class">觀察</div>
+                <div class="board-title">&#9678;[神魔] 妹取板</div>
+            </a>
+        </div>
+        
+	</div>
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.27/bbs.js"></script>
+
+    <script type="text/javascript">(function(){window['__CF$cv$params']={r:'7106b452ee73af46',m:'I_xZK7Nih3tqItn8ieU4Kk0vP5RE0m.01JRF.EE3MPU-1653402365-0-AZzjPjysNv7EaBQ9k/7IfD1GTYO4+niSyvHIb5RGzUH7nn890b9oirXqUNxzFDzwMGq9F+OCieN4tkQ/9L3eF4EpLcjV9E5nWzhXBKQkwRFSCgAccokybgSTopiTe6QqPA==',s:[0x2fba96ce87,0xe7ff81877b],}})();</script></body>
+</html>

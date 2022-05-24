@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>分類看板 - 批踢踢實業坊</title>
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-print.css" media="print">
+
+
+
+
+	<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+    <body>
+		
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/bbs/">批踢踢實業坊</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+
+<div id="main-container">
+	<div id="action-bar-container">
+		<div class="action-bar">
+			<div class="btn-group btn-group-cls">
+				<a class="btn" href="/bbs/hotboards.html">熱門看板</a>
+                <a class="btn selected" href="/cls/1">分類看板</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="b-list-container action-bar-margin bbs-screen">
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/NCCUNewBoard/index.html">
+                <div class="board-name">NCCUNewBoard</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">申請</div>
+                <div class="board-title">&#9678;新板 政治大學新看板連署機</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/830">
+                <div class="board-name">NCCU10X</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">政大</div>
+                <div class="board-title">&#931;文學 中文/教育/歷史/哲學</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/2948">
+                <div class="board-name">NCCU20X</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">政大</div>
+                <div class="board-title">&#931;社科 政/社/財/公/地/經/民</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/2949">
+                <div class="board-name">NCCU30X</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">政大</div>
+                <div class="board-title">&#931;商學 國/金/會/統/企/資/財/風</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/2950">
+                <div class="board-name">NCCU40X</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">政大</div>
+                <div class="board-title">&#931;傳播 新聞/廣告/廣電</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/2951">
+                <div class="board-name">NCCU50X</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">政大</div>
+                <div class="board-title">&#931;外語 英/阿/斯/日/韓/土/歐</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/2952">
+                <div class="board-name">NCCU60X</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">政大</div>
+                <div class="board-title">&#931;法學 法律(法學/財法/法制/法研)</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/2953">
+                <div class="board-name">NCCU70X</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">政大</div>
+                <div class="board-title">&#931;理學 應數/心理/資科</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/7722">
+                <div class="board-name">NCCU80X</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">政大</div>
+                <div class="board-title">&#931;國務 外交/東亞所/俄研所</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/NCCU_BM/index.html">
+                <div class="board-name">NCCU_BM</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">組務</div>
+                <div class="board-title">&#9678;[政大組務] 請詳閱置底</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/6979">
+                <div class="board-name">StudentGroup</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#931;校園 社團/學生會/畢委會/系隊</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/6331">
+                <div class="board-name">Discuss</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">綜合</div>
+                <div class="board-title">&#931;討論 政帥/政表/帥女/冷板/考古題</div>
+            </a>
+        </div>
+        
+	</div>
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.27/bbs.js"></script>
+
+    <script type="text/javascript">(function(){window['__CF$cv$params']={r:'7106b42bd8c11d5b',m:'8H2Qm.COIKLqQFS4x4Xm9XxVY5XHiq8eWIN.KlIGCZQ-1653402359-0-AeEo9idNdQMttK9DsXH9UvfFau+swkp40XMGlwWdXgzmBi1pbX1YaIeKc6kxGQe15WwrUk6I7hFk9lBwbjqlNpQWABj8Wqg45aAq81hBqgvqAdsv7dIhahZiUIfuGC3kyA==',s:[0xb5ff1eb682,0x88ad8511ff],}})();</script></body>
+</html>

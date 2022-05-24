@@ -1,0 +1,580 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>分類看板 - 批踢踢實業坊</title>
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-print.css" media="print">
+
+
+
+
+	<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+    <body>
+		
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/bbs/">批踢踢實業坊</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+
+<div id="main-container">
+	<div id="action-bar-container">
+		<div class="action-bar">
+			<div class="btn-group btn-group-cls">
+				<a class="btn" href="/bbs/hotboards.html">熱門看板</a>
+                <a class="btn selected" href="/cls/1">分類看板</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="b-list-container action-bar-margin bbs-screen">
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Lineage/index.html">
+                <div class="board-name">Lineage</div>
+                <div class="board-nuser">9</div>
+                <div class="board-class">天堂</div>
+                <div class="board-title">&#9678;[天堂R&amp;M]魯因城改版&amp;奇岩世界戰</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Pangya/index.html">
+                <div class="board-name">Pangya</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">回憶</div>
+                <div class="board-title">&#9678;[魔法飛球] 電腦版只剩泰版</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Sub_GOnline/index.html">
+                <div class="board-name">Sub_GOnline</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">組務</div>
+                <div class="board-title">&#9678;線上遊戲小組(G_Online) 組務板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/AVA-Online/index.html">
+                <div class="board-name">AVA-Online</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">線上</div>
+                <div class="board-title">&#9678;   =Alliance of Valiant Arms=</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/BB_Online/index.html">
+                <div class="board-name">BB_Online</div>
+                <div class="board-nuser">1</div>
+                <div class="board-class">線上</div>
+                <div class="board-title">&#9678;[BBO系列] 全民打棒球系列</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/BlackDesert/index.html">
+                <div class="board-name">BlackDesert</div>
+                <div class="board-nuser">1</div>
+                <div class="board-class">線上</div>
+                <div class="board-title">&#9678;-黑色沙漠- 展望奧迪爾莉塔</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/BNS/index.html">
+                <div class="board-name">BNS</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">線上</div>
+                <div class="board-title">&#9678;[劍靈] 3周年系列活動</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/cabala/index.html">
+                <div class="board-name">cabala</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">線上</div>
+                <div class="board-title">&#9678;[卡巴拉島] 卡巴拉島M上線啦！</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/CrazyArcade/index.html">
+                <div class="board-name">CrazyArcade</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">線上</div>
+                <div class="board-title">&#9678;CrazyArcade</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/CrossGate/index.html">
+                <div class="board-name">CrossGate</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">線上</div>
+                <div class="board-title">&#9678;[XG] 周年慶+懷舊寵物大集合</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/CryptoGames/index.html">
+                <div class="board-name">CryptoGames</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">線上</div>
+                <div class="board-title">&#9678;[區塊鏈遊戲板] Play to Earn!</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/CSonline/index.html">
+                <div class="board-name">CSonline</div>
+                <div class="board-nuser">1</div>
+                <div class="board-class">線上</div>
+                <div class="board-title">&#9678;[CSO ] 2倒了 但1還在</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/DIABLO/index.html">
+                <div class="board-name">DIABLO</div>
+                <div class="board-nuser"><span class="hl">778</span></div>
+                <div class="board-class">線上</div>
+                <div class="board-title">&#9678;[暗黑] 逼狗大戰</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/DNF/index.html">
+                <div class="board-name">DNF</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">線上</div>
+                <div class="board-title">&#9678;[DNF] 美服男槍第五職</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/DragonNest/index.html">
+                <div class="board-name">DragonNest</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">線上</div>
+                <div class="board-title">&#9678;[龍谷] 龍之谷 正式開服</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/dragonraja/index.html">
+                <div class="board-name">dragonraja</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">線上</div>
+                <div class="board-title">&#9678;[龍族] DragonRaja</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/ELSWORD/index.html">
+                <div class="board-name">ELSWORD</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">線上</div>
+                <div class="board-title">&#9678;[艾爾] 艾爾之光</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/FreeStyle/index.html">
+                <div class="board-name">FreeStyle</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">線上</div>
+                <div class="board-title">&#9678;FreeStyle2公測中~</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/GuildWars/index.html">
+                <div class="board-name">GuildWars</div>
+                <div class="board-nuser">1</div>
+                <div class="board-class">線上</div>
+                <div class="board-title">&#9678;《GW2》來自Mike&amp;Z的Message </div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/GVOnline/index.html">
+                <div class="board-name">GVOnline</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">線上</div>
+                <div class="board-title">&#9678;[航海] Lost Memories</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Gwent/index.html">
+                <div class="board-name">Gwent</div>
+                <div class="board-nuser">1</div>
+                <div class="board-class">線上</div>
+                <div class="board-title">&#9678;[昆特] 昆特競技場</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Hattrick/index.html">
+                <div class="board-name">Hattrick</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">線上</div>
+                <div class="board-title">&#9678;[ＨＴ] 最好玩的足球網頁線上遊戲</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Hearthstone/index.html">
+                <div class="board-name">Hearthstone</div>
+                <div class="board-nuser"><span class="hl">99</span></div>
+                <div class="board-class">線上</div>
+                <div class="board-title">&#9678;[爐石] 永遠的大哥</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Hiyo/index.html">
+                <div class="board-name">Hiyo</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">線上</div>
+                <div class="board-title">&#9678;跑online hiyo衝天跑 翻滾小子</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Ikariam/index.html">
+                <div class="board-name">Ikariam</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">線上</div>
+                <div class="board-title">&#9678;[Ikariam]遠古文明</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/kartrider/index.html">
+                <div class="board-name">kartrider</div>
+                <div class="board-nuser">1</div>
+                <div class="board-class">線上</div>
+                <div class="board-title">&#9678;爆哥在正修科大服勤</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/KOK/index.html">
+                <div class="board-name">KOK</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">線上</div>
+                <div class="board-title">&#9678;萬王之王 2018年重開TEST中</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/LineageII/index.html">
+                <div class="board-name">LineageII</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">線上</div>
+                <div class="board-title">&#9678;天堂II  手遊可以下載啦~~</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Mabinogi/index.html">
+                <div class="board-name">Mabinogi</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">線上</div>
+                <div class="board-title">&#9678;[瑪奇] 喀倫巴斯</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/MabinogiHero/index.html">
+                <div class="board-name">MabinogiHero</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">線上</div>
+                <div class="board-title">&#9678;[瑪英] 回歸原廠 領箱子囉</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/MapleStory/index.html">
+                <div class="board-name">MapleStory</div>
+                <div class="board-nuser"><span class="hl f3">14</span></div>
+                <div class="board-class">線上</div>
+                <div class="board-title">&#9678;來RB喔～ 這次達人要練到210喔～</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/mud/index.html">
+                <div class="board-name">mud</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">線上</div>
+                <div class="board-title">&#9678;泥巴世界 Multi-User Dungeon</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/mud_doom/index.html">
+                <div class="board-name">mud_doom</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">線上</div>
+                <div class="board-title">&#9678;失落的國度 - 重新開站了</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/mud_jy/index.html">
+                <div class="board-name">mud_jy</div>
+                <div class="board-nuser">1</div>
+                <div class="board-class">線上</div>
+                <div class="board-title">&#9678;金庸修真路 jy.mud.com.tw:6666</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/mud_mars/index.html">
+                <div class="board-name">mud_mars</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">線上</div>
+                <div class="board-title">&#9678;瑪爾斯群英傳</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/mud_sanc/index.html">
+                <div class="board-name">mud_sanc</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">線上</div>
+                <div class="board-title">&#9678;Sanctuary - 聖殿英雄傳說 mud 板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/NobuOnline/index.html">
+                <div class="board-name">NobuOnline</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">線上</div>
+                <div class="board-title">&#9678;[信ON] ~天樓之章~ 霸王覺醒</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/OverWatch/index.html">
+                <div class="board-name">OverWatch</div>
+                <div class="board-nuser">5</div>
+                <div class="board-class">線上</div>
+                <div class="board-title">&#9678;[鬥陣] Overwatch2 Beta</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/PathofExile/index.html">
+                <div class="board-name">PathofExile</div>
+                <div class="board-nuser"><span class="hl">63</span></div>
+                <div class="board-class">線上</div>
+                <div class="board-title">&#9678;[PoE] 勤洗手戴口罩 保持社交距離</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/RO/index.html">
+                <div class="board-name">RO</div>
+                <div class="board-nuser"><span class="hl f3">20</span></div>
+                <div class="board-class">線上</div>
+                <div class="board-title">&#9678;[仙境] 撿櫻花樹枝節又來了</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/RS/index.html">
+                <div class="board-name">RS</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">線上</div>
+                <div class="board-title">&#9678;     ×☆RockingSoccer☆ ×</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Shadowverse/index.html">
+                <div class="board-name">Shadowverse</div>
+                <div class="board-nuser"><span class="hl f3">17</span></div>
+                <div class="board-class">線上</div>
+                <div class="board-title">&#9678;[闇影詩章] 新卡包: 天象樂土</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/SpecialForce/index.html">
+                <div class="board-name">SpecialForce</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">線上</div>
+                <div class="board-title">&#9678;[SF] 暑假槍戰開打囉！</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/StoneAge/index.html">
+                <div class="board-name">StoneAge</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">線上</div>
+                <div class="board-title">&#9678;[石器] 大地女神~血尿中</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/TalesWeaver/index.html">
+                <div class="board-name">TalesWeaver</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">線上</div>
+                <div class="board-title">&#9678;[天翼之鍊] TalesWeaver</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/travian/index.html">
+                <div class="board-name">travian</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">線上</div>
+                <div class="board-title">&#9678;[車羊] 肥羊遇豬年小心豬羊變色~</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/TreeofSavior/index.html">
+                <div class="board-name">TreeofSavior</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">線上</div>
+                <div class="board-title">&#9678;[救世者之樹]</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/TribalWars/index.html">
+                <div class="board-name">TribalWars</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">線上</div>
+                <div class="board-title">&#9678;Tribalwars 一年一度，新年快樂</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Unlight/index.html">
+                <div class="board-name">Unlight</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">線上</div>
+                <div class="board-title">&#9678;[UL] 手...手機板？</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/VALORANT/index.html">
+                <div class="board-name">VALORANT</div>
+                <div class="board-nuser">1</div>
+                <div class="board-class">線上</div>
+                <div class="board-title">&#9678;[VALORANT] 瓦羅蘭 特 戰英豪</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/War_Thunder/index.html">
+                <div class="board-name">War_Thunder</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">線上</div>
+                <div class="board-title">&#9678;戰爭雷霆</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Wargaming/index.html">
+                <div class="board-name">Wargaming</div>
+                <div class="board-nuser">1</div>
+                <div class="board-class">線上</div>
+                <div class="board-title">&#9678;[ＷＧ] Happy New Year!(2022)</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/WOW/index.html">
+                <div class="board-name">WOW</div>
+                <div class="board-nuser"><span class="hl">52</span></div>
+                <div class="board-class">線上</div>
+                <div class="board-title">&#9678;[WoW] 巨龍巨龍你擦亮眼</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/X-Legend/index.html">
+                <div class="board-name">X-Legend</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">線上</div>
+                <div class="board-title">&#9678;[傳奇] 神子.星界.天團.幻想.聖境</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/CGI-Game/index.html">
+                <div class="board-name">CGI-Game</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">觀封</div>
+                <div class="board-title">&#9678;[CGI-Game] </div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Garena/index.html">
+                <div class="board-name">Garena</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">觀封</div>
+                <div class="board-title">&#9678;GARENA版 誠徵新板主ing~</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/ONLINE/index.html">
+                <div class="board-name">ONLINE</div>
+                <div class="board-nuser">1</div>
+                <div class="board-class">觀封</div>
+                <div class="board-title">&#9678;線上遊戲綜合板 贈送虛寶請洽置底</div>
+            </a>
+        </div>
+        
+	</div>
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.27/bbs.js"></script>
+
+    <script type="text/javascript">(function(){window['__CF$cv$params']={r:'7106b4528fd314cc',m:'XhQOEmhnVQH4bUFHNu459.cFVoX7H7VYNnoxT.Ga9ww-1653402365-0-AXLglmWKfkZkL+pMPcGwodvl6tQ//9mA29NfDGbcapyO9fNzG4i3iIE9wN00i8b3loJGDJQ5xZKnUxcOMMqZnK3Zl2l2lomHkDYlFzt9ggH6haTHCnltYJLIugvHTfvuCQ==',s:[0x6012ece3de,0xde0ebcf3c0],}})();</script></body>
+</html>

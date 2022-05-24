@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>分類看板 - 批踢踢實業坊</title>
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-print.css" media="print">
+
+
+
+
+	<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+    <body>
+		
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/bbs/">批踢踢實業坊</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+
+<div id="main-container">
+	<div id="action-bar-container">
+		<div class="action-bar">
+			<div class="btn-group btn-group-cls">
+				<a class="btn" href="/bbs/hotboards.html">熱門看板</a>
+                <a class="btn selected" href="/cls/1">分類看板</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="b-list-container action-bar-margin bbs-screen">
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Inference/index.html">
+                <div class="board-name">Inference</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">益智</div>
+                <div class="board-title">&#9678;推理遊戲的新世界</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/puzzle/index.html">
+                <div class="board-name">puzzle</div>
+                <div class="board-nuser">1</div>
+                <div class="board-class">益智</div>
+                <div class="board-title">&#9678;[益智] 數獨 推理 拼圖 西洋棋</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/riddle/index.html">
+                <div class="board-name">riddle</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">益智</div>
+                <div class="board-title">&#9678;猜謎射虎:不是元宵節也可以猜燈謎</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Rubiks/index.html">
+                <div class="board-name">Rubiks</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">益智</div>
+                <div class="board-title">&#9678;[方塊] 我認識！！！(￣▽￣)</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Sub_GPlaying/index.html">
+                <div class="board-name">Sub_GPlaying</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">組務</div>
+                <div class="board-title">&#9678;益智遊戲小組(G_Playing)組務板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/othello/index.html">
+                <div class="board-name">othello</div>
+                <div class="board-nuser">1</div>
+                <div class="board-class">棋藝</div>
+                <div class="board-title">&#9678;放假請乖乖待在家裡下黑白棋</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/PttCChess/index.html">
+                <div class="board-name">PttCChess</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">棋譜</div>
+                <div class="board-title">&#9678;Ptt 象棋棋譜中心</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/PttFive/index.html">
+                <div class="board-name">PttFive</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">棋譜</div>
+                <div class="board-title">&#9678;Ptt 五子棋棋譜中心</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/PttGO/index.html">
+                <div class="board-name">PttGO</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">棋譜</div>
+                <div class="board-title">&#9678;Ptt 圍棋棋譜中心</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/chess/index.html">
+                <div class="board-name">chess</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">棋類</div>
+                <div class="board-title">&#9678;棋類板－現代將棋激戰藤井聡防衛</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/ChineseChess/index.html">
+                <div class="board-name">ChineseChess</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">棋類</div>
+                <div class="board-title">&#9678;象棋研究版-楚漢象棋大賽開始!</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/five_chess/index.html">
+                <div class="board-name">five_chess</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">棋類</div>
+                <div class="board-title">&#9678;五子棋-名人三連霸！</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/GO/index.html">
+                <div class="board-name">GO</div>
+                <div class="board-nuser">2</div>
+                <div class="board-class">棋類</div>
+                <div class="board-title">&#9678;亞運又有圍棋啦</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/bridge/index.html">
+                <div class="board-name">bridge</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">牌藝</div>
+                <div class="board-title">&#9678;合約 迷你 雙人 簡易 花橋 拿破侖</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Magic/index.html">
+                <div class="board-name">Magic</div>
+                <div class="board-nuser">3</div>
+                <div class="board-class">牌藝</div>
+                <div class="board-title">&#9678;魔法風雲會</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/MJ/index.html">
+                <div class="board-name">MJ</div>
+                <div class="board-nuser">2</div>
+                <div class="board-class">牌藝</div>
+                <div class="board-title">&#9678;本版已禁止徵人徵場</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/MJ_JP/index.html">
+                <div class="board-name">MJ_JP</div>
+                <div class="board-nuser">2</div>
+                <div class="board-class">牌藝</div>
+                <div class="board-title">&#9678;[日麻] 日本麻將板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Poker/index.html">
+                <div class="board-name">Poker</div>
+                <div class="board-nuser">3</div>
+                <div class="board-class">牌藝</div>
+                <div class="board-title">&#9678;請勿拍打水族箱</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/sanguosha/index.html">
+                <div class="board-name">sanguosha</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">牌藝</div>
+                <div class="board-title">&#9678;這裡是三國殺板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/TCG/index.html">
+                <div class="board-name">TCG</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">牌藝</div>
+                <div class="board-title">&#9678;[TCG] 集換式卡牌遊戲板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/BoardGame/index.html">
+                <div class="board-name">BoardGame</div>
+                <div class="board-nuser"><span class="hl f3">20</span></div>
+                <div class="board-class">遊戲</div>
+                <div class="board-title">&#9678;　　＜桌遊板 Board Game＞</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/killercorp/index.html">
+                <div class="board-name">killercorp</div>
+                <div class="board-nuser">1</div>
+                <div class="board-class">遊戲</div>
+                <div class="board-title">&#9678;[殺手] 慶祝奇拉克普公司上市</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/tetris/index.html">
+                <div class="board-name">tetris</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">遊戲</div>
+                <div class="board-title">&#9678;319 HBD Furea!</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/TRPG/index.html">
+                <div class="board-name">TRPG</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">遊戲</div>
+                <div class="board-title">&#9678;[TRPG] 桌上角色扮演遊戲版</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/TurtleSoup/index.html">
+                <div class="board-name">TurtleSoup</div>
+                <div class="board-nuser">3</div>
+                <div class="board-class">遊戲</div>
+                <div class="board-title">&#9678;[海龜] 春夏金湯置底推薦中</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Wargame/index.html">
+                <div class="board-name">Wargame</div>
+                <div class="board-nuser">2</div>
+                <div class="board-class">遊戲</div>
+                <div class="board-title">&#9678;戰爭遊戲</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/chicken/index.html">
+                <div class="board-name">chicken</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">嘰哩</div>
+                <div class="board-title">&#9678;[小雞] </div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/PttGames/index.html">
+                <div class="board-name">PttGames</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">嘰哩</div>
+                <div class="board-title">&#9678;歡迎光臨 Ptt 遊樂場</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/SportStack/index.html">
+                <div class="board-name">SportStack</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">疊杯</div>
+                <div class="board-title">&#9678;[疊杯] 2014亞洲盃在台灣!!!</div>
+            </a>
+        </div>
+        
+	</div>
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.27/bbs.js"></script>
+
+    <script type="text/javascript">(function(){window['__CF$cv$params']={r:'7106b4548dae80c3',m:'eobtc_bA9oVcsU015Tvk_3G5B4dxX_rAnYg.eirMpfU-1653402366-0-AaGjl0uRpEjpwFf7wDukcSwCmHV4GpR5B7NdZPl+RFLsdIpejMRnd06SFp+d3nVAe0Vd3SgJg37lsKtImFa/lY4xl74FKOBs//tYf0rkvcLSalyDYYRCDGqiv+fIOJZSPg==',s:[0x9ace021a83,0xccc6f3cd84],}})();</script></body>
+</html>

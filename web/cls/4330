@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>分類看板 - 批踢踢實業坊</title>
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-print.css" media="print">
+
+
+
+
+	<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+    <body>
+		
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/bbs/">批踢踢實業坊</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+
+<div id="main-container">
+	<div id="action-bar-container">
+		<div class="action-bar">
+			<div class="btn-group btn-group-cls">
+				<a class="btn" href="/bbs/hotboards.html">熱門看板</a>
+                <a class="btn selected" href="/cls/1">分類看板</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="b-list-container action-bar-margin bbs-screen">
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/AOE/index.html">
+                <div class="board-name">AOE</div>
+                <div class="board-nuser"><span class="hl f3">18</span></div>
+                <div class="board-class">即時</div>
+                <div class="board-title">&#9678;[世紀] 世紀帝國</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/StarCraft/index.html">
+                <div class="board-name">StarCraft</div>
+                <div class="board-nuser">3</div>
+                <div class="board-class">即時</div>
+                <div class="board-title">&#9678;[星海] 2022 GSL S1 Rogue</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/WarCraft/index.html">
+                <div class="board-name">WarCraft</div>
+                <div class="board-nuser">2</div>
+                <div class="board-class">即時</div>
+                <div class="board-title">&#9678;BZ的輝煌與殞落</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/LoL_Picket/index.html">
+                <div class="board-name">LoL_Picket</div>
+                <div class="board-nuser">1</div>
+                <div class="board-class">板務</div>
+                <div class="board-title">&#9678;LoL 板 違規檢舉及板務建議專用板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Sub_Strategy/index.html">
+                <div class="board-name">Sub_Strategy</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">組務</div>
+                <div class="board-title">&#9678;戰略遊戲小組(G_Strategy)組務板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/fnatic/index.html">
+                <div class="board-name">fnatic</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">試閱</div>
+                <div class="board-title">&#9678;[FNC] Fnatic</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/BlizzHeroes/index.html">
+                <div class="board-name">BlizzHeroes</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">遊戲</div>
+                <div class="board-title">&#9678;[HOTS] </div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/CaoCao/index.html">
+                <div class="board-name">CaoCao</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">遊戲</div>
+                <div class="board-title">&#9678;[英傑傳] 本版也能討論英傑傳</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/DotA2/index.html">
+                <div class="board-name">DotA2</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">遊戲</div>
+                <div class="board-title">&#9678;[DotA2] 歡迎大家更新置底攻略</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/FireEmblem/index.html">
+                <div class="board-name">FireEmblem</div>
+                <div class="board-nuser">7</div>
+                <div class="board-class">遊戲</div>
+                <div class="board-title">&#9678;[聖火 ] 5/27 角色插畫集 Vol.2</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/HON/index.html">
+                <div class="board-name">HON</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">遊戲</div>
+                <div class="board-title">&#9678;[HON]  HON板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/LoL/index.html">
+                <div class="board-name">LoL</div>
+                <div class="board-nuser"><span class="hl f1">2184</span></div>
+                <div class="board-class">遊戲</div>
+                <div class="board-title">&#9678;[LoL] EU&gt;&gt;&gt;&gt;&gt;&gt;NA</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Smite/index.html">
+                <div class="board-name">Smite</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">遊戲</div>
+                <div class="board-title">&#9678;[Smite]諸神爭霸-天佑台灣！</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/WarCraftChat/index.html">
+                <div class="board-name">WarCraftChat</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">綜合</div>
+                <div class="board-title">&#9678;魔獸爭霸 + LoL</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/RTS/index.html">
+                <div class="board-name">RTS</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">戰略</div>
+                <div class="board-title">&#9678;即時戰略板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/AHQ/index.html">
+                <div class="board-name">AHQ</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">戰隊</div>
+                <div class="board-title">&#9678;[ahq]      賽恩會發文</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/FlashWolves/index.html">
+                <div class="board-name">FlashWolves</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">戰隊</div>
+                <div class="board-title">&#9678;[電狼] AoV‧LOLM‧2022上半場</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/G-REX/index.html">
+                <div class="board-name">G-REX</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">戰隊</div>
+                <div class="board-title">&#9678;[GRX] 歡迎來到GRX板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Jteam/index.html">
+                <div class="board-name">Jteam</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">戰隊</div>
+                <div class="board-title">&#9678;[JT] </div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/ktrolster/index.html">
+                <div class="board-name">ktrolster</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">戰隊</div>
+                <div class="board-title">&#9678;[KT] 展望夏季...</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/M17/index.html">
+                <div class="board-name">M17</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">戰隊</div>
+                <div class="board-title">&#9678;[M17] 板主徵選</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/MAD/index.html">
+                <div class="board-name">MAD</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">戰隊</div>
+                <div class="board-title">&#9678;[MAD]  瘋狂電競俱樂部</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/T1/index.html">
+                <div class="board-name">T1</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">戰隊</div>
+                <div class="board-title">&#9678;[T1]</div>
+            </a>
+        </div>
+        
+	</div>
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.27/bbs.js"></script>
+
+    <script type="text/javascript">(function(){window['__CF$cv$params']={r:'7106b451a8beaf64',m:'1b6ia3adbW5i4xfhm7TA2_xc8oxFUod.tv1iJQZuA88-1653402365-0-AQ+mcCqs+QtTp+WNdhDTd8pNucyJOSLzxYfkfr36oRoVzNO9PfvtxSYe3ZGDBceNSI1fY6/Nn1ZG6EQpSOKwlfQ1fV9Tt1WfInGoFUI4UZNljnrjv19Q9/QgesePGUEoBQ==',s:[0x9ace021a83,0xacc9ba4c9b],}})();</script></body>
+</html>

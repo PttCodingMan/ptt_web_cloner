@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>分類看板 - 批踢踢實業坊</title>
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-print.css" media="print">
+
+
+
+
+	<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+    <body>
+		
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/bbs/">批踢踢實業坊</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+
+<div id="main-container">
+	<div id="action-bar-container">
+		<div class="action-bar">
+			<div class="btn-group btn-group-cls">
+				<a class="btn" href="/bbs/hotboards.html">熱門看板</a>
+                <a class="btn selected" href="/cls/1">分類看板</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="b-list-container action-bar-margin bbs-screen">
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/6683">
+                <div class="board-name">Univ_discuss</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">大學</div>
+                <div class="board-title">&#931;大學討論   大學/轉學/重考/二一</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/7766">
+                <div class="board-name">Univ_Group</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">大學</div>
+                <div class="board-title">&#931;大學校際   聯合社團/活動/大專盃賽</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/14392">
+                <div class="board-name">Dead_Board</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">待廢</div>
+                <div class="board-title">&#931;待廢看板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/8258">
+                <div class="board-name">Grad_discuss</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">研究</div>
+                <div class="board-title">&#931;研所討論   考試/補習/生活/碩士</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/8880">
+                <div class="board-name">ST_College</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">科院</div>
+                <div class="board-title">&#931;科技院校   科大/四技/專科</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/3289">
+                <div class="board-name">Area4-YLCYTN</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">校友</div>
+                <div class="board-title">&#931;雲嘉南地區</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/3377">
+                <div class="board-name">Area6-JLYL</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">校友</div>
+                <div class="board-title">&#931;基隆宜蘭地區</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/3373">
+                <div class="board-name">Area8-Island</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">校友</div>
+                <div class="board-title">&#931;外島地區 &amp; 海外學校</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/480">
+                <div class="board-name">Bushiban</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">校友</div>
+                <div class="board-title">&#931;補習班聯盟</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/7765">
+                <div class="board-name">Central-Area</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">校園</div>
+                <div class="board-title">&#931;台灣中部  台中/彰化/南投/雲林</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/7762">
+                <div class="board-name">East-Area</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">校園</div>
+                <div class="board-title">&#931;台灣東部  宜蘭/花蓮/台東</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/7615">
+                <div class="board-name">North-Area</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">校園</div>
+                <div class="board-title">&#931;台灣北部  桃園/新竹/苗栗</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/1258">
+                <div class="board-name">Oversea</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">校園</div>
+                <div class="board-title">&#931;外國大學</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/7763">
+                <div class="board-name">South-Area</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">校園</div>
+                <div class="board-title">&#931;台灣南部  嘉義/台南/高雄/屏東</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/7767">
+                <div class="board-name">Taipei-Area</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">校園</div>
+                <div class="board-title">&#931;台北地區  台北/新北/基隆</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/SENIOR_BM/index.html">
+                <div class="board-name">SENIOR_BM</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">高中</div>
+                <div class="board-title">&#9678;高中板板務事務討論專板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/SENIORHIGH/index.html">
+                <div class="board-name">SENIORHIGH</div>
+                <div class="board-nuser"><span class="hl f3">22</span></div>
+                <div class="board-class">高中</div>
+                <div class="board-title">&#9678;[高中] 歡迎來到高中版</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/V_ScHooL/index.html">
+                <div class="board-name">V_ScHooL</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">高職</div>
+                <div class="board-title">&#9678;四技二專甄選入學第一階段報名中</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/juniorhigh/index.html">
+                <div class="board-name">juniorhigh</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">國中</div>
+                <div class="board-title">&#9678;[國中] 有獎徵文招募中　放榜加油</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/8958">
+                <div class="board-name">About_Univer</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">組務</div>
+                <div class="board-title">&#931;青蘋果樹   連署/申請/組務</div>
+            </a>
+        </div>
+        
+	</div>
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.27/bbs.js"></script>
+
+    <script type="text/javascript">(function(){window['__CF$cv$params']={r:'7106b42c7d1980c3',m:'LxFcUkpewKHz7nfMw8h7wdlFcz5_nBXuLwHR1afCj_s-1653402359-0-ARy1PzkSy3CXIjoa9S+Bg9xfC+pmP4V7jD8xX4yl2h1NkntWlT3wV+0Ct1ywgiuVJ+SV1/wHtutRwGSuoct46ohKJvD+ARKLkKiCRHHtgWypTdoaw3ANFwIH8+hUTIISBQ==',s:[0xa14bcb414e,0xed140aaa0c],}})();</script></body>
+</html>

@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>分類看板 - 批踢踢實業坊</title>
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-print.css" media="print">
+
+
+
+
+	<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+    <body>
+		
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/bbs/">批踢踢實業坊</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+
+<div id="main-container">
+	<div id="action-bar-container">
+		<div class="action-bar">
+			<div class="btn-group btn-group-cls">
+				<a class="btn" href="/bbs/hotboards.html">熱門看板</a>
+                <a class="btn selected" href="/cls/1">分類看板</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="b-list-container action-bar-margin bbs-screen">
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/L_ShoppingMa/index.html">
+                <div class="board-name">L_ShoppingMa</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">小組</div>
+                <div class="board-title">&#9678;購物名店街組務版</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Suit_Style/index.html">
+                <div class="board-name">Suit_Style</div>
+                <div class="board-nuser">6</div>
+                <div class="board-class">西裝</div>
+                <div class="board-title">&#9678;西裝版   也是丹迪型男版!!!</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Actuary/index.html">
+                <div class="board-name">Actuary</div>
+                <div class="board-nuser"><span class="hl f3">18</span></div>
+                <div class="board-class">資訊</div>
+                <div class="board-title">&#9678;[精打細算] 請依照格式發文</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Ame_Casual/index.html">
+                <div class="board-name">Ame_Casual</div>
+                <div class="board-nuser">3</div>
+                <div class="board-class">資訊</div>
+                <div class="board-title">&#9678;復刻/鞋靴/皮衣/配件/軍品/古著</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Anti-Fake/index.html">
+                <div class="board-name">Anti-Fake</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">資訊</div>
+                <div class="board-title">&#9678;【反-仿冒版】發文標題請配合唷</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Anti-ramp/index.html">
+                <div class="board-name">Anti-ramp</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">資訊</div>
+                <div class="board-title">&#9678;[非好店] 防被告 多想1分鐘再PO文</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Brand/index.html">
+                <div class="board-name">Brand</div>
+                <div class="board-nuser"><span class="hl">120</span></div>
+                <div class="board-class">資訊</div>
+                <div class="board-title">&#9678;   ＊* 布蘭德 細節的價值 ＊*</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/consumer/index.html">
+                <div class="board-name">consumer</div>
+                <div class="board-nuser">1</div>
+                <div class="board-class">資訊</div>
+                <div class="board-title">&#9678;這裡是消費者保護板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/customers/index.html">
+                <div class="board-name">customers</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">資訊</div>
+                <div class="board-title">&#9678;&lt;顧客版&gt; 是&#34;討論顧客行為&#34;的版</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/E-appliance/index.html">
+                <div class="board-name">E-appliance</div>
+                <div class="board-nuser"><span class="hl">100</span></div>
+                <div class="board-class">資訊</div>
+                <div class="board-title">&#9678;[家電] 發文請照規定發文</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/fashion/index.html">
+                <div class="board-name">fashion</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">資訊</div>
+                <div class="board-title">&#9678;[飛炫] fashion 流行時尚討論板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/GoodShop/index.html">
+                <div class="board-name">GoodShop</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">資訊</div>
+                <div class="board-title">&#9678;新板規上路,請務必閱讀至底文!</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Mix_Match/index.html">
+                <div class="board-name">Mix_Match</div>
+                <div class="board-nuser"><span class="hl f3">13</span></div>
+                <div class="board-class">資訊</div>
+                <div class="board-title">&#9678;[搭配板] 發問記得加上穿搭敘述</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/street_style/index.html">
+                <div class="board-name">street_style</div>
+                <div class="board-nuser">10</div>
+                <div class="board-class">資訊</div>
+                <div class="board-title">&#9678;/潮流/街頭/流行/風格/文化/科科/</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/TWproducts/index.html">
+                <div class="board-name">TWproducts</div>
+                <div class="board-nuser">6</div>
+                <div class="board-class">資訊</div>
+                <div class="board-title">&#9678;愛用國貨,別再幫支那賺錢買下臺灣</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/e-seller/index.html">
+                <div class="board-name">e-seller</div>
+                <div class="board-nuser">9</div>
+                <div class="board-class">網購</div>
+                <div class="board-title">&#9678;[賣家]網路賣家版</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/e-shopping/index.html">
+                <div class="board-name">e-shopping</div>
+                <div class="board-nuser"><span class="hl">337</span></div>
+                <div class="board-class">網購</div>
+                <div class="board-title">&#9678;[ＥＳ] 注意板規 遠離水桶</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/bag/index.html">
+                <div class="board-name">bag</div>
+                <div class="board-nuser">2</div>
+                <div class="board-class">購一</div>
+                <div class="board-title">&#9678;包板-禁過短廣告買賣文天佑花蓮</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/female-shoes/index.html">
+                <div class="board-name">female-shoes</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">購一</div>
+                <div class="board-title">&#9678;[女鞋] 女鞋版</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/HatandCap/index.html">
+                <div class="board-name">HatandCap</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">購一</div>
+                <div class="board-title">&#9678;☆★帽版★☆</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Jeans/index.html">
+                <div class="board-name">Jeans</div>
+                <div class="board-nuser">5</div>
+                <div class="board-class">購一</div>
+                <div class="board-title">&#9678;[牛仔褲] Wear &amp; Share</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Jewelry/index.html">
+                <div class="board-name">Jewelry</div>
+                <div class="board-nuser">2</div>
+                <div class="board-class">購一</div>
+                <div class="board-title">&#9678;發文前請先詳閱置底板規</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Perfume/index.html">
+                <div class="board-name">Perfume</div>
+                <div class="board-nuser"><span class="hl f3">25</span></div>
+                <div class="board-class">購一</div>
+                <div class="board-title">&#9678;香水板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/shoes/index.html">
+                <div class="board-name">shoes</div>
+                <div class="board-nuser"><span class="hl f3">35</span></div>
+                <div class="board-class">購一</div>
+                <div class="board-title">&#9678;你安靜         發文前請詳置底文</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/watch/index.html">
+                <div class="board-name">watch</div>
+                <div class="board-nuser"><span class="hl">164</span></div>
+                <div class="board-class">購一</div>
+                <div class="board-title">&#9678;[錶板] Show me your Watch!</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/LivingGoods/index.html">
+                <div class="board-name">LivingGoods</div>
+                <div class="board-nuser"><span class="hl f3">32</span></div>
+                <div class="board-class">購二</div>
+                <div class="board-title">&#9678;生活精品雜貨板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/outdoorgear/index.html">
+                <div class="board-name">outdoorgear</div>
+                <div class="board-nuser"><span class="hl f3">14</span></div>
+                <div class="board-class">購二</div>
+                <div class="board-title">&#9678;戶外裝備版</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Depstore/index.html">
+                <div class="board-name">Depstore</div>
+                <div class="board-nuser">2</div>
+                <div class="board-class">購三</div>
+                <div class="board-title">&#9678;Ψ百貨版Ψ Γ禁徵卡號禮券點數Γ</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/hypermall/index.html">
+                <div class="board-name">hypermall</div>
+                <div class="board-nuser"><span class="hl">66</span></div>
+                <div class="board-class">購三</div>
+                <div class="board-title">&#9678;[賣場] 進出賣場做好防疫措施</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/IntlShopping/index.html">
+                <div class="board-name">IntlShopping</div>
+                <div class="board-nuser">1</div>
+                <div class="board-class">購三</div>
+                <div class="board-title">&#9678;新板規已公告，發文前請詳閱</div>
+            </a>
+        </div>
+        
+	</div>
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.27/bbs.js"></script>
+
+    <script type="text/javascript">(function(){window['__CF$cv$params']={r:'7106b4320f031d5b',m:'Bbr2zHXRlHU96wtGc_78Uh_zBATtfykUhM52cbhAuns-1653402360-0-AVRZTTl6oWpgRmblRWrZlblPBFV8RsQZeOtDiPLwadF0s/VkytoB+N1JJ3ifw1o80Dhzo4ZrBZyVX5ZreD6jTXcDWx87SY0fVMzA9aOdtVPitjNO4PYkBTzDVfFwpjoQZQ==',s:[0xda0bd93087,0xdc78be5803],}})();</script></body>
+</html>

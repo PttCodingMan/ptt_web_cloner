@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>分類看板 - 批踢踢實業坊</title>
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-print.css" media="print">
+
+
+
+
+	<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+    <body>
+		
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/bbs/">批踢踢實業坊</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+
+<div id="main-container">
+	<div id="action-bar-container">
+		<div class="action-bar">
+			<div class="btn-group btn-group-cls">
+				<a class="btn" href="/bbs/hotboards.html">熱門看板</a>
+                <a class="btn selected" href="/cls/1">分類看板</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="b-list-container action-bar-margin bbs-screen">
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/17678">
+                <div class="board-name">C_Idol</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">人物</div>
+                <div class="board-title">&#931;卡漫夢工廠 人物偶像</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/17681">
+                <div class="board-name">AC_Novel</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">小說</div>
+                <div class="board-title">&#931;卡漫夢工廠 小說作品-小說、輕小說</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/C_NewBoard/index.html">
+                <div class="board-name">C_NewBoard</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">申請</div>
+                <div class="board-title">&#9678;卡漫夢工廠 連署系統</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/17679">
+                <div class="board-name">C_Artworks</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">作品</div>
+                <div class="board-title">&#931;卡漫夢工廠 作品討論</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/17677">
+                <div class="board-name">C_Media</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">服軟</div>
+                <div class="board-title">&#931;卡漫夢工廠 服務軟體</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/17680">
+                <div class="board-name">AC_Anime</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">動畫</div>
+                <div class="board-title">&#931;卡漫夢工廠 動畫作品</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/17688">
+                <div class="board-name">NERV</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">組務</div>
+                <div class="board-title">&#931;卡漫夢工廠 組務服務</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/17684">
+                <div class="board-name">AC_Game</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">遊戲</div>
+                <div class="board-title">&#931;卡漫夢工廠 遊戲作品</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/17686">
+                <div class="board-name">AC_CoArtist</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">漫畫</div>
+                <div class="board-title">&#931;卡漫夢工廠 漫畫作者-討論該作者作品</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/17676">
+                <div class="board-name">C_Genre</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">領域</div>
+                <div class="board-title">&#931;卡漫夢工廠 主題討論</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/C_Enter/index.html">
+                <div class="board-name">C_Enter</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">導覽</div>
+                <div class="board-title">&#9678;卡漫夢工廠 看板導覽</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/16695">
+                <div class="board-name">C_Memory</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">懷舊</div>
+                <div class="board-title">&#931;卡漫夢工廠 懷舊封存</div>
+            </a>
+        </div>
+        
+	</div>
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.27/bbs.js"></script>
+
+    <script type="text/javascript">(function(){window['__CF$cv$params']={r:'7106b42cb9851d5b',m:'TvxdVUndxGL0feTNQjOJQ8xmdJV0PYDp9DuFzORAbr0-1653402359-0-AazetZN3g7jNkJ44C9rOYh6m+sJrp5yUeKC/Y1rrtbt2Ds+tum2HTQvrrzPrIzu83UHiysQaCxyrO6VVNrpXE6aBEde2300dmPOTNtwqVt8oeiE2FC8Um31NNdy6/KKvuQ==',s:[0xd56f367bca,0x3a53778857],}})();</script></body>
+</html>

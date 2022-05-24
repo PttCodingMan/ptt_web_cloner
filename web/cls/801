@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>分類看板 - 批踢踢實業坊</title>
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-print.css" media="print">
+
+
+
+
+	<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+    <body>
+		
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/bbs/">批踢踢實業坊</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+
+<div id="main-container">
+	<div id="action-bar-container">
+		<div class="action-bar">
+			<div class="btn-group btn-group-cls">
+				<a class="btn" href="/bbs/hotboards.html">熱門看板</a>
+                <a class="btn selected" href="/cls/1">分類看板</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="b-list-container action-bar-margin bbs-screen">
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/606">
+                <div class="board-name">Idols_1TW</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">人物</div>
+                <div class="board-title">&#931;臺灣希望群星館</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/604">
+                <div class="board-name">Idols_2HKCN</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">人物</div>
+                <div class="board-title">&#931;中港人氣大會堂</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/1060">
+                <div class="board-name">Idols_3JP</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">人物</div>
+                <div class="board-title">&#931;哈日藝能宅即便</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/2358">
+                <div class="board-name">Idols_4KR</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">人物</div>
+                <div class="board-title">&#931;韓流氣象觀測站</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/607">
+                <div class="board-name">Idols_5SEA</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">人物</div>
+                <div class="board-title">&#931;東南亞偶像小屋</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/257">
+                <div class="board-name">Idols_6West</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">人物</div>
+                <div class="board-title">&#931;西洋巨星俱樂部</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/2359">
+                <div class="board-name">Idols_Other</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">人物</div>
+                <div class="board-title">&#931;綜合人物討論區</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Golden-Award/index.html">
+                <div class="board-name">Golden-Award</div>
+                <div class="board-nuser"><span class="hl f3">14</span></div>
+                <div class="board-class">三金</div>
+                <div class="board-title">&#9678;[三金] 第33屆金曲獎入圍名單公布</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/804">
+                <div class="board-name">Music_World</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">音樂</div>
+                <div class="board-title">&#931;音樂世界遊樂園</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/5202">
+                <div class="board-name">Buzz_Group</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">組務</div>
+                <div class="board-title">&#931;視聽板務服務台</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/8244">
+                <div class="board-name">Buzz_Museum</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">博館</div>
+                <div class="board-title">&#931;視聽劇場博物館</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/4708">
+                <div class="board-name">News</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">報刊</div>
+                <div class="board-title">&#931;批踢踢報刊工廠</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/1058">
+                <div class="board-name">TV-Set</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">電視</div>
+                <div class="board-title">&#931;批踢踢電視公司</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/2328">
+                <div class="board-name">Movies</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">電影</div>
+                <div class="board-title">&#931;批踢踢國際影城</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/1057">
+                <div class="board-name">Stage</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">舞臺</div>
+                <div class="board-title">&#931;批踢踢舞臺學院</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/1427">
+                <div class="board-name">Radio_Club</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">廣播</div>
+                <div class="board-title">&#931;批踢踢電臺酒吧</div>
+            </a>
+        </div>
+        
+	</div>
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.27/bbs.js"></script>
+
+    <script type="text/javascript">(function(){window['__CF$cv$params']={r:'7106b42bd8d314cc',m:'cwUr5ZM7SZLLVGSIEz2fMM422BQC1ZvTwvy5Jl6NLsA-1653402359-0-AYoe0JC45+fFQ5JdfBpC8OHYKKaqeN5TJElx/t0X0Vhrwq5YBbIizw9bgEzIcvmoDq+f0+b+923ojzlEuMC6NTdYYCG7I//keuQxPQSj76eSznCfcRmQzcY8p6fODINl6w==',s:[0x7be3477f45,0x4f8f8b5245],}})();</script></body>
+</html>

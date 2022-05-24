@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>分類看板 - 批踢踢實業坊</title>
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-print.css" media="print">
+
+
+
+
+	<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+    <body>
+		
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/bbs/">批踢踢實業坊</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+
+<div id="main-container">
+	<div id="action-bar-container">
+		<div class="action-bar">
+			<div class="btn-group btn-group-cls">
+				<a class="btn" href="/bbs/hotboards.html">熱門看板</a>
+                <a class="btn selected" href="/cls/1">分類看板</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="b-list-container action-bar-margin bbs-screen">
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Podcast/index.html">
+                <div class="board-name">Podcast</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">綜合</div>
+                <div class="board-title">&#9678;Podcast討論板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/radio/index.html">
+                <div class="board-name">radio</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">綜合</div>
+                <div class="board-title">&#9678;[電台]</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/WebRadio/index.html">
+                <div class="board-name">WebRadio</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">綜合</div>
+                <div class="board-title">&#9678;[網電] 版權問題，低調為上策</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/11035">
+                <div class="board-name">Web_Radio</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">網電</div>
+                <div class="board-title">&#931;藍天數位傳播塔</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/10814">
+                <div class="board-name">Air_Radio</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">廣播</div>
+                <div class="board-title">&#931;調頻廣播電台區</div>
+            </a>
+        </div>
+        
+	</div>
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.27/bbs.js"></script>
+
+    <script type="text/javascript">(function(){window['__CF$cv$params']={r:'7106b4306daa1d5b',m:'1PT_LmI_8PyzSs_g.F2DO7aYH1KZkNcxd2L1Dl.43Ug-1653402360-0-ARnVjRNfE5UVAX302qeV/taI7XXQmErWjFLfzLZc/T50j/wEKKHGVezULYFETQMd44wJVRhc3lEzoGx4nrHr8VAwLcoyROd9D2N0cfnnqYS6yzF05PvszbWvQu/zQVTFYw==',s:[0x8feb1ca785,0xff24cf4f82],}})();</script></body>
+</html>

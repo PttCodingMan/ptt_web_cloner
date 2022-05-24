@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>分類看板 - 批踢踢實業坊</title>
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-print.css" media="print">
+
+
+
+
+	<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+    <body>
+		
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/bbs/">批踢踢實業坊</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+
+<div id="main-container">
+	<div id="action-bar-container">
+		<div class="action-bar">
+			<div class="btn-group btn-group-cls">
+				<a class="btn" href="/bbs/hotboards.html">熱門看板</a>
+                <a class="btn selected" href="/cls/1">分類看板</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="b-list-container action-bar-margin bbs-screen">
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/3296">
+                <div class="board-name">SportService</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">    </div>
+                <div class="board-title">&#931;國家體育場  組務服務台</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/5184">
+                <div class="board-name">HallofFame</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">=HOF</div>
+                <div class="board-title">&#931;國家體育場  運動名人堂</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/8069">
+                <div class="board-name">WorldGames</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">大賽</div>
+                <div class="board-title">&#931;[大運動會] 奧運/亞運/世運/世大運</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/3617">
+                <div class="board-name">PttFootball</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">足球</div>
+                <div class="board-title">&#931;[足球] 歐洲球會/各國聯賽/台灣足球</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/4503">
+                <div class="board-name">PttBall</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">球類</div>
+                <div class="board-title">&#931;[球類] 羽/桌/排/保/高/壘/橄/美足</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/2149">
+                <div class="board-name">PttBaseball</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">棒球</div>
+                <div class="board-title">&#931;[棒球] 中職/美職/日職/球隊/球星</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/4928">
+                <div class="board-name">PttSports</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">運動</div>
+                <div class="board-title">&#931;[運動] 運動/技擊/極限/跑步</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/4648">
+                <div class="board-name">PttTennis</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">網球</div>
+                <div class="board-title">&#931;[網球] 大滿貫/國家/區域/球星</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/4389">
+                <div class="board-name">PttRacingCar</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">賽車</div>
+                <div class="board-title">&#931;[賽車] 方程式/越野拉力/摩托車錦標</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/4329">
+                <div class="board-name">PttBasket</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">籃球</div>
+                <div class="board-title">&#931;[籃球] 台灣籃球/美國職籃</div>
+            </a>
+        </div>
+        
+	</div>
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.27/bbs.js"></script>
+
+    <script type="text/javascript">(function(){window['__CF$cv$params']={r:'7106b42bcd53341a',m:'wBR5.TjEsDkr62OkSkvmffx7x9l30R64J_EGMZ9nVlM-1653402359-0-Ac5TTLvoRc92UscrM/H+l40In+igvu9BxOEXcj+tyoIeD4K7wcGBFni5UK7di8fYS15MFQtmO7fEn2ypnEeAcCkElXm/pbyKSSDuuChg7h5mLUhfU+dIFt+t0w+OdAXIOA==',s:[0x9ba1b00a5d,0x12de45e8b9],}})();</script></body>
+</html>

@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>分類看板 - 批踢踢實業坊</title>
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-print.css" media="print">
+
+
+
+
+	<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+    <body>
+		
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/bbs/">批踢踢實業坊</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+
+<div id="main-container">
+	<div id="action-bar-container">
+		<div class="action-bar">
+			<div class="btn-group btn-group-cls">
+				<a class="btn" href="/bbs/hotboards.html">熱門看板</a>
+                <a class="btn selected" href="/cls/1">分類看板</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="b-list-container action-bar-margin bbs-screen">
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/A-UPUP/index.html">
+                <div class="board-name">A-UPUP</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;天祐台灣!台灣加油!</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Alternative/index.html">
+                <div class="board-name">Alternative</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;未來  在向我們招手</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/AngelCity/index.html">
+                <div class="board-name">AngelCity</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;賀!友情十二周年慶!</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/BeanFlower/index.html">
+                <div class="board-name">BeanFlower</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;七個伊底迪和豌豆哥要結婚了！</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Brethren/index.html">
+                <div class="board-name">Brethren</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;PTT網路團契板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/CH303/index.html">
+                <div class="board-name">CH303</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;大家都是阿姨了...</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/chageworld/index.html">
+                <div class="board-name">chageworld</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;曾經立志文學</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/CSCommunity/index.html">
+                <div class="board-name">CSCommunity</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;中國研究讀書會</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/CYPA/index.html">
+                <div class="board-name">CYPA</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;中國青年安和策進會</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/free_league/index.html">
+                <div class="board-name">free_league</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;福利杯第11屆進行中</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/GambleGhost/index.html">
+                <div class="board-name">GambleGhost</div>
+                <div class="board-nuser">1</div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;賭鬼板 有賭不算輸  \^^/</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/GOFORFIENDS/index.html">
+                <div class="board-name">GOFORFIENDS</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;人文精神的最終自覺</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/GooGin/index.html">
+                <div class="board-name">GooGin</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;又見古經研習</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/GuideDog/index.html">
+                <div class="board-name">GuideDog</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;惠光導盲犬教育基金會</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/hurry-up/index.html">
+                <div class="board-name">hurry-up</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;大家都三十好幾了</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/KOTDFansClub/index.html">
+                <div class="board-name">KOTDFansClub</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;這只是代號！</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Left_Village/index.html">
+                <div class="board-name">Left_Village</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;左岸鄉民壘球夢想板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/LightBlue/index.html">
+                <div class="board-name">LightBlue</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;淡藍的從前...</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/LordsOfWater/index.html">
+                <div class="board-name">LordsOfWater</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;趴哥是正妹殺手</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/LSCup/index.html">
+                <div class="board-name">LSCup</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;LSCup 2016 in CSMU</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Mei-Feng/index.html">
+                <div class="board-name">Mei-Feng</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;梅峰俱樂部</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Michigan_96/index.html">
+                <div class="board-name">Michigan_96</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;1996密西根遊學團</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/OldGymFellow/index.html">
+                <div class="board-name">OldGymFellow</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;舊體愛用者</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/pighead/index.html">
+                <div class="board-name">pighead</div>
+                <div class="board-nuser">1</div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;豬頭黨新春優惠 黨費有問有便宜</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/PutOffShell/index.html">
+                <div class="board-name">PutOffShell</div>
+                <div class="board-nuser">1</div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;順手捐P幣 救救豆腐人ˊ_&gt;ˋ</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Rounders/index.html">
+                <div class="board-name">Rounders</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;期待再板聚 哈哈!</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Sassy-babe/index.html">
+                <div class="board-name">Sassy-babe</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;大家都要往幸福的路上前進!!</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Seven-up/index.html">
+                <div class="board-name">Seven-up</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;恭喜畫意招財亞培要當媽媽囉!</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/SFFamily/index.html">
+                <div class="board-name">SFFamily</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;星海爭霸 HOT! </div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/SmallFace/index.html">
+                <div class="board-name">SmallFace</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;小面家族俱樂部</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Tea91Talk/index.html">
+                <div class="board-name">Tea91Talk</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;月入八千之都會新貴+ed</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/TRG/index.html">
+                <div class="board-name">TRG</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;2014 冬季生日會 時間統計中</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/WHSoftball/index.html">
+                <div class="board-name">WHSoftball</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;[萬壘] 萬板鄉民壘球團</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/YH-FeverNite/index.html">
+                <div class="board-name">YH-FeverNite</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;奇摩發燒夜</div>
+            </a>
+        </div>
+        
+	</div>
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.27/bbs.js"></script>
+
+    <script type="text/javascript">(function(){window['__CF$cv$params']={r:'7106b434ac05af46',m:'e7PvaprZ9GEmdsJvMEJYrvaBxcH_BH5GT0gPLa_QumE-1653402361-0-AXq829dKss7ovzGIz/gKNg7Y0SNbQcQEYrz0hikv7F1JFLcVcbk3ZZDTGOtNX+QcAI4rUkCq2gWkpUZVGTqh2wDhHmauUVuzWGl3trNie5Yvb5QCx8iah5rxKj6oBJT4kw==',s:[0xbd289f01dc,0xc6080d5b52],}})();</script></body>
+</html>

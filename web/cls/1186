@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>分類看板 - 批踢踢實業坊</title>
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-print.css" media="print">
+
+
+
+
+	<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+    <body>
+		
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/bbs/">批踢踢實業坊</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+
+<div id="main-container">
+	<div id="action-bar-container">
+		<div class="action-bar">
+			<div class="btn-group btn-group-cls">
+				<a class="btn" href="/bbs/hotboards.html">熱門看板</a>
+                <a class="btn selected" href="/cls/1">分類看板</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="b-list-container action-bar-margin bbs-screen">
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/CodeJob/index.html">
+                <div class="board-name">CodeJob</div>
+                <div class="board-nuser">5</div>
+                <div class="board-class">工作</div>
+                <div class="board-title">&#9678;Codejob板 新版規v1.2出爐</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/CSSE/index.html">
+                <div class="board-name">CSSE</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">研討</div>
+                <div class="board-title">&#9678;電腦科學及軟體工程</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/DataScience/index.html">
+                <div class="board-name">DataScience</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">研討</div>
+                <div class="board-title">&#9678;防疫在家做資料科學</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Network_Sim/index.html">
+                <div class="board-name">Network_Sim</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">研討</div>
+                <div class="board-title">&#9678;網路模擬器(Network Simulator)</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/PLT/index.html">
+                <div class="board-name">PLT</div>
+                <div class="board-nuser">1</div>
+                <div class="board-class">研討</div>
+                <div class="board-title">&#9678;程式語言與理論</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Prob_Solve/index.html">
+                <div class="board-name">Prob_Solve</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">研討</div>
+                <div class="board-title">&#9678;計算數學版, 請勿亂入</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Sub_CS/index.html">
+                <div class="board-name">Sub_CS</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">組務</div>
+                <div class="board-title">&#9678;程式設計小組CompScience組務板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Eclipse/index.html">
+                <div class="board-name">Eclipse</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">軟體</div>
+                <div class="board-title">&#9678;[Eclipse] Android開發改用AS囉</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Flash/index.html">
+                <div class="board-name">Flash</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">軟體</div>
+                <div class="board-title">&#9678;你今天Flash了嗎?</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/LaTeX/index.html">
+                <div class="board-name">LaTeX</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">軟體</div>
+                <div class="board-title">&#9678;論文排版好幫手</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Fortran/index.html">
+                <div class="board-name">Fortran</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">程式</div>
+                <div class="board-title">&#9678;Fortran 程式語言</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/R_Language/index.html">
+                <div class="board-name">R_Language</div>
+                <div class="board-nuser">1</div>
+                <div class="board-class">程式</div>
+                <div class="board-title">&#9678;R: 最流行的統計語言</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Ajax/index.html">
+                <div class="board-name">Ajax</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">程設</div>
+                <div class="board-title">&#9678;[Ajax] 本版討論Javascript</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/AndroidDev/index.html">
+                <div class="board-name">AndroidDev</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">程設</div>
+                <div class="board-title">&#9678;[AndroidDev] 開發者們，歡迎光臨</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/ASM/index.html">
+                <div class="board-name">ASM</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">程設</div>
+                <div class="board-title">&#9678;組合的藝術</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/C_and_CPP/index.html">
+                <div class="board-name">C_and_CPP</div>
+                <div class="board-nuser">1</div>
+                <div class="board-class">程設</div>
+                <div class="board-title">&#9678;C#是MS生的，但C++不是他爸</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/C_Sharp/index.html">
+                <div class="board-name">C_Sharp</div>
+                <div class="board-nuser">1</div>
+                <div class="board-class">程設</div>
+                <div class="board-title">&#9678;Standard ECMA-334: C#</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/java/index.html">
+                <div class="board-name">java</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">程設</div>
+                <div class="board-title">&#9678;[Java]理性討論、再戰27年</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Mathematica/index.html">
+                <div class="board-name">Mathematica</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">程設</div>
+                <div class="board-title">&#9678;ＭＡＴＨＥＭＡＴＩＣＡ程式討論區</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/MATLAB/index.html">
+                <div class="board-name">MATLAB</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">程設</div>
+                <div class="board-title">&#9678;ＭＡＴＬＡＢ程式討論區</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/OOAD/index.html">
+                <div class="board-name">OOAD</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">程設</div>
+                <div class="board-title">&#9678;Object-Oriented Analysis&amp;Design</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Perl/index.html">
+                <div class="board-name">Perl</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">程設</div>
+                <div class="board-title">&#9678;Let&#39;s Talk in Perl</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/PHP/index.html">
+                <div class="board-name">PHP</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">程設</div>
+                <div class="board-title">&#9678;PHP 板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Programming/index.html">
+                <div class="board-name">Programming</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">程設</div>
+                <div class="board-title">&#9678;Programming </div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Python/index.html">
+                <div class="board-name">Python</div>
+                <div class="board-nuser">3</div>
+                <div class="board-class">程設</div>
+                <div class="board-title">&#9678;Python 程式語言</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/RegExp/index.html">
+                <div class="board-name">RegExp</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">程設</div>
+                <div class="board-title">&#9678;正規表示式</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Ruby/index.html">
+                <div class="board-name">Ruby</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">程設</div>
+                <div class="board-title">&#9678;Ruby - 程式設計師的摯友</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Visual_Basic/index.html">
+                <div class="board-name">Visual_Basic</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">程設</div>
+                <div class="board-title">&#9678;[VB]繼續活在尚未被取代的舊程式</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/CompilerDev/index.html">
+                <div class="board-name">CompilerDev</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">開發</div>
+                <div class="board-title">&#9678;編譯器開發(試閱中...)</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/LinuxDev/index.html">
+                <div class="board-name">LinuxDev</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">開發</div>
+                <div class="board-title">&#9678;Linux程式開發:請先RTFM+STFW</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/MacDev/index.html">
+                <div class="board-name">MacDev</div>
+                <div class="board-nuser">2</div>
+                <div class="board-class">開發</div>
+                <div class="board-title">&#9678;Mac/iOS 程式開發</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Database/index.html">
+                <div class="board-name">Database</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">資庫</div>
+                <div class="board-title">&#9678;[ DB ] 歡迎一起討論資料庫！</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/CompBook/index.html">
+                <div class="board-name">CompBook</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">資訊</div>
+                <div class="board-title">&#9678; 電腦書 資工用書</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/IPv6/index.html">
+                <div class="board-name">IPv6</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">網路</div>
+                <div class="board-title">&#9678;次世代網際網路協定</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Network/index.html">
+                <div class="board-name">Network</div>
+                <div class="board-nuser">1</div>
+                <div class="board-class">網路</div>
+                <div class="board-title">&#9678;Layer =&gt; 通訊架構</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Web_Design/index.html">
+                <div class="board-name">Web_Design</div>
+                <div class="board-nuser">1</div>
+                <div class="board-class">網路</div>
+                <div class="board-title">&#9678;     網頁設計專版</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Translate-CS/index.html">
+                <div class="board-name">Translate-CS</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">翻譯</div>
+                <div class="board-title">&#9678;資訊類翻譯板</div>
+            </a>
+        </div>
+        
+	</div>
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.27/bbs.js"></script>
+
+    <script type="text/javascript">(function(){window['__CF$cv$params']={r:'7106b45388911eab',m:'.ZPBgP0PvQL3E.A.H9R8k8R0NBLZtIND5e1NmaiBThI-1653402366-0-AdiT8pY7XMcXE/+f4/MRqjyczW8seorqxYHI9wHnojPHxNfx4PVKJha1QOSRSCR1rSlhSaxYPoYH07Zd096jupkWe5BJD/Y0vlZslicHIrxIA2vrK0f1LpSnR06a6uWT0w==',s:[0x12b4b71667,0xc966c6dbbe],}})();</script></body>
+</html>

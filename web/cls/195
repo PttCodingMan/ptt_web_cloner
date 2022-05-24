@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>分類看板 - 批踢踢實業坊</title>
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-print.css" media="print">
+
+
+
+
+	<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+    <body>
+		
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/bbs/">批踢踢實業坊</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+
+<div id="main-container">
+	<div id="action-bar-container">
+		<div class="action-bar">
+			<div class="btn-group btn-group-cls">
+				<a class="btn" href="/bbs/hotboards.html">熱門看板</a>
+                <a class="btn selected" href="/cls/1">分類看板</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="b-list-container action-bar-margin bbs-screen">
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/16816">
+                <div class="board-name">NTUAS</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">大氣</div>
+                <div class="board-title">&#931;大氣系班板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/6830">
+                <div class="board-name">NTUChemistry</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">化學</div>
+                <div class="board-title">&#931;化學系班板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/6829">
+                <div class="board-name">Psychology</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">心理</div>
+                <div class="board-title">&#931;心理系班板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/6835">
+                <div class="board-name">NTUGeography</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">地理</div>
+                <div class="board-title">&#931;地理系班板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/6833">
+                <div class="board-name">Geology</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">地質</div>
+                <div class="board-title">&#931;地質系班板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/6832">
+                <div class="board-name">NTUPhysics</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">物理</div>
+                <div class="board-title">&#931;物理系班板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/8080">
+                <div class="board-name">NTUOC</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">海洋</div>
+                <div class="board-title">&#931;台大海洋研究所</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/NTUSCSA/index.html">
+                <div class="board-name">NTUSCSA</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">理院</div>
+                <div class="board-title">&#9678;</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Sci_Service/index.html">
+                <div class="board-name">Sci_Service</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">組務</div>
+                <div class="board-title">&#9678;理院看板組務板 現任版主要附議</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/6831">
+                <div class="board-name">NTUMath</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">數學</div>
+                <div class="board-title">&#931;數學系班板</div>
+            </a>
+        </div>
+        
+	</div>
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.27/bbs.js"></script>
+
+    <script type="text/javascript">(function(){window['__CF$cv$params']={r:'7106b433f84314cc',m:'w7uZc6vGIsGXHU5ba_RJO8uXfOhhe.nNH3L9.v1ogE4-1653402360-0-ATdDJrYR8tEOFZQc8g+LwodNG4SLQiOxXsAEcRzBmz+qvgM+l+2PY41az+ziJfURafkLQXHx2cTBnKsaNVmCEO6pySFDdZXx9qlY33O2cJP1zL8SqD3DqC4Daa59WLHqWA==',s:[0xb49b4e6ba9,0xc63d9b3cd1],}})();</script></body>
+</html>

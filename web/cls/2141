@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>分類看板 - 批踢踢實業坊</title>
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-print.css" media="print">
+
+
+
+
+	<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+    <body>
+		
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/bbs/">批踢踢實業坊</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+
+<div id="main-container">
+	<div id="action-bar-container">
+		<div class="action-bar">
+			<div class="btn-group btn-group-cls">
+				<a class="btn" href="/bbs/hotboards.html">熱門看板</a>
+                <a class="btn selected" href="/cls/1">分類看板</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="b-list-container action-bar-margin bbs-screen">
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/3524">
+                <div class="board-name">C-Art</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">社團</div>
+                <div class="board-title">&#931;藝術 戲劇/繪畫/書法/美術/篆刻</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/362">
+                <div class="board-name">C-Business</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">社團</div>
+                <div class="board-title">&#931;商業 期貨/證券/行銷/創業</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/357">
+                <div class="board-name">C-Culture</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">社團</div>
+                <div class="board-title">&#931;文化 媒體/小說/詩詞/奇幻</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/358">
+                <div class="board-name">C-Mind</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">社團</div>
+                <div class="board-title">&#931;心靈 團契/佛學/修煉</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/1140">
+                <div class="board-name">C-Music</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">社團</div>
+                <div class="board-title">&#931;音樂 合唱/樂團/聆賞/創作</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/1021">
+                <div class="board-name">C-Rest</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">社團</div>
+                <div class="board-title">&#931;逸趣 旅遊/舞蹈/品賞/占卜/釣魚/魔術</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/3525">
+                <div class="board-name">C-Rights</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">社團</div>
+                <div class="board-title">&#931;權利 人權/保育/福利/環保</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/1029">
+                <div class="board-name">C-School</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">社團</div>
+                <div class="board-title">&#931;校園 跨系/轉學/外籍/校友/營友</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/3526">
+                <div class="board-name">C-Service</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">社團</div>
+                <div class="board-title">&#931;康服 服務/團康/童軍</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/1040">
+                <div class="board-name">C-Skill</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">社團</div>
+                <div class="board-title">&#931;學藝 棋藝/橋藝/工藝/廚藝/技藝/演辯</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/359">
+                <div class="board-name">C-Sports1</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">社團</div>
+                <div class="board-title">&#931;體育1武術/馬術/體能/滑板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/3557">
+                <div class="board-name">C-Sports2</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">社團</div>
+                <div class="board-title">&#931;體育2水上/球類/溜冰/潛水</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/1038">
+                <div class="board-name">C-Study</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">社團</div>
+                <div class="board-title">&#931;研究 綜合/跨社</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/3527">
+                <div class="board-name">C-Teams</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">社團</div>
+                <div class="board-title">&#931;校隊  </div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/360">
+                <div class="board-name">C-Tech</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">社團</div>
+                <div class="board-title">&#931;科技 天文/生物/交通/科幻/博奕</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/6606">
+                <div class="board-name">ZCLUBs</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">社團</div>
+                <div class="board-title">&#931;  社團宣傳  及  幹部交流  區</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/5503">
+                <div class="board-name">Act_Clubs</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">活動</div>
+                <div class="board-title">&#931;批踢踢活動類別站民團體</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/5498">
+                <div class="board-name">About_Club</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">組務</div>
+                <div class="board-title">&#931;活動中心連署及組務專區</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/3528">
+                <div class="board-name">C-Alumni</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#931;社團退休、留學、兵役同梯成員</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/209">
+                <div class="board-name">C-Groups</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#931;一般站民團體</div>
+            </a>
+        </div>
+        
+	</div>
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.27/bbs.js"></script>
+
+    <script type="text/javascript">(function(){window['__CF$cv$params']={r:'7106b42ed8f8341a',m:'yKPRvtXhtGl6J3x8hi5ozAxJh3IbP2ASDgBrd1ueH0s-1653402360-0-AbDAvh3XkSF9516Noc5ibTHMmsrsUb+k7lNLpio7DL+It5qXlzrVv3Pz0zyPetrNPIcRpFk4Ipi/bMn+dfsIfM9ryeKaCxO1U+4cX+CQZuN7cTAUTlnwPLM7cuWSbqhiUg==',s:[0xf9395af65c,0xdc78be5803],}})();</script></body>
+</html>

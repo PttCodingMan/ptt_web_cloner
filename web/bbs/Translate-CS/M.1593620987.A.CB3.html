@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>[翻譯] JDK 15 的新功能 - 看板 Translate-CS - 批踢踢實業坊</title>
+<meta name="robots" content="all">
+<meta name="keywords" content="Ptt BBS 批踢踢">
+<meta name="description" content="Blog 版： http://blog.dontcareabout.us/2020/07/jdk-15.html
+BBS 版以 markdown 格式撰寫
+底子不夠，很多句子拆開來都看得懂，但是合併起來就死翹翹... (艸
+----------------------------------------------------------------------
+原文網址：https://www.infoworld.com/article/3534133/
+">
+<meta property="og:site_name" content="Ptt 批踢踢實業坊">
+<meta property="og:title" content="[翻譯] JDK 15 的新功能">
+<meta property="og:description" content="Blog 版： http://blog.dontcareabout.us/2020/07/jdk-15.html
+BBS 版以 markdown 格式撰寫
+底子不夠，很多句子拆開來都看得懂，但是合併起來就死翹翹... (艸
+----------------------------------------------------------------------
+原文網址：https://www.infoworld.com/article/3534133/
+">
+<link rel="canonical" href="https://www.ptt.cc/bbs/Translate-CS/M.1593620987.A.CB3.html">
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-print.css" media="print">
+
+
+
+
+	<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+    <body>
+		
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/bbs/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Translate-CS/index.html"><span class="board-label">看板 </span>Translate-CS</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Translate-CS/index.html">返回看板</a>
+		<div class="bar"></div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">PsMonkey (痞子軍團團長)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Translate-CS</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[翻譯] JDK 15 的新功能</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu Jul  2 00:29:43 2020</span></div>
+Blog 版： <a href="http://blog.dontcareabout.us/2020/07/jdk-15.html" target="_blank" rel="noreferrer noopener nofollow">http://blog.dontcareabout.us/2020/07/jdk-15.html</a>
+
+BBS 版以 markdown 格式撰寫
+
+底子不夠，很多句子拆開來都看得懂，但是合併起來就死翹翹... (艸
+
+
+----------------------------------------------------------------------
+
+
+原文網址：<a href="https://www.infoworld.com/article/3534133/" target="_blank" rel="noreferrer noopener nofollow">https://www.infoworld.com/article/3534133/</a>
+          jdk-15-the-new-features-in-java-15.html
+
+[Java Development Kit 15] 是 Java SE 的下個版本，
+Oracle 的實做在 6/11 進入到初期的 ramp-down phase，
+該版本的功能集已經定型了。
+JDK 15 的亮點包含 text block、hidden class、
+foreign memory 存取 API 以及 sealed class、record 的 preview 版本。
+
+Java upgrade 也進入到 ramp-down phase，
+兩個候選版本會在 8/20 之前釋出。
+general availability 會在 9/15。
+JDK 15 的前身是 3/17 發布的 [JDK 14]。
+Oracle 在 Java SE 保持著 6 個月發布一次新版的步調，
+每年會有兩個新的版本問世。
+
+
+OpenJDK 15 的新功能與改變：
+
+* 第二個 [foreign memory 存取 API] 的孵化版本，
+  這可以讓 Java 程式安全且有效率地存取 Java heap 以外的 foreign memory。
+  API 可以操作數種不同的 foreign memory，
+  像是 native、persistent、managed heap。
+  許多 Java 程式會存取 foreign memory，像是 Ignite、MapDB。
+  這個 API 會協助避免產生與 garbage collection、
+  跨 process 的 share memory、將檔案對應至記憶體的序列化......
+  相關的成本與不確定性。
+  目前的 Java API 沒有提供令人滿意的 foreign memory 存取方法。
+  但在新的提案當中，API 應該也不會損害到 JVM 的安全性。
+  這個功能在 [JDK 14] 當中完成了早期孵化板，
+  在 JDK 15 當中提供的是精鍊過的版本。
+
+* [sealed class] 的 preview 版本。
+  除了 interface，sealed class 限制其他 class 或 interface
+  如何繼承或實做 sealed class 的方式。
+  這個功能的目標包含 class 或 interface 的設計者
+  可以控制哪些程式碼是有實做的責任、
+  提供一個比 access modifier 更具表達力的方法來限制 super class 的使用、
+  以及 support future directions in pattern matching by
+  underpinning the exhaustive analysis of patterns。
+
+* 移除 Solaris/SPARC、Solaris/x64、Linux/SPARC 的支援。（細節略）
+
+* [record] 是一種 class、它是 immutable 資料的透明載體。
+  在 JDK 14 當中以前期 preview 版面世，
+  JDK 15 應該會包含 preview 二版。
+  這個計畫的目標包含設計一個 OO 建造法來表達一個簡單的數據集合、
+  幫助程式設計師專住在建構 immutable data 而不是可繼承的行為、
+  自動實做資料相關的 method（像是 equals 跟 assessor）、
+  保持 Java 長期以來的原則（像是 nominal typing 以及移植能力）。
+  record 可以視為是 nominal tuple。
+
+* 基於 [Edwards-Curve Digital Signature Algorithm (EdDSA)] 的加密簽章演算法。
+  EdDSA 是現代的 elliptic curve scheme 勝過目前 JDK 當中的簽章 scheme。
+  EdDSA 只有在 SunEC provider 當中會實做。
+  EdDSA 會被需要是因為相較於其他簽章 scheme 它加強了安全度及效能。
+  一些加密的 library（例如 OpenSSL 跟 BoringSSL）已支援這個演算法。
+
+* [重新實做古老的 DatagramSocket API]，
+  將底層 `java.net.datagram.Socket` 以及
+  `java.net.MulticastSocket` API 換成簡單且較現代的實做方式。
+  這帶來幾點好處：1. 容易除錯與維護。
+  2. 使用 [Project Loom] 正在開發的 virtual thread。
+  新的計畫會依循 JEP 353（重新實做古老的 Socket API）。
+  目前 `java.net.datagram.Socket` 以及 `java.net.MulticastSocket` 的實做
+  可以回溯至 JDK 1.0，
+  那時 IPv6 還在開發中。這造成目前 `MulticastSocket` 的實做
+  試著調解 IPv4 跟 IPv6 導致很難維護。
+
+* 預設[關掉 biased locking]，
+  所有相關的 command-line 選項也都 deprecate。（細節略）
+
+* 延續 [JDK 14] 的 preview 版本，
+  推出 [`instanceof` 的 pattern matching] 的 preview 二版。
+  pattern matching 主要可以讓
+  「在程式當中用特定條件取出 object 的 component」的表示法變得更簡潔。
+  像 Haskell 跟 C# 都因為其簡約與安全的特性而包含 pattern matching。
+
+* [hidden class] 是無法讓其他 class 在 bytecode 當中直接使用的 class，
+  這讓 framework 在 runtime 製造出 class
+  然後透過 reflection 的方式間接地使用這些 class。
+  hidden class 可以被定義為 [access control nest] 的 member，
+  並且可以獨立 unload。
+  這個提案透過啟用標準 API 來定義
+  無法被找到且有 limited lifecycle 的 hidden class，
+  會增加所有 JVM 上語言的效能。
+  無論 JDK 內外的 framework 將可以動態地製造 class 而不是定義 hidden class。
+  許多在 JVM 上的語言依賴動態製造 class 來達到彈性與效率。
+  這個提案的目標包含：讓 framework 定義找不到實做細節的 class，
+  這樣其他 class 就無法連結到、也無法用 reflection 的方式發現到；
+  support for extending an access control nest with non-discoverable classes；
+  以及支援無法找到的 class 的侵入式 unload，
+  這樣 framework 就有彈性可以想定義多少就定義多少。
+  另外一個目標是 deprecate 一個非標準 API
+  `misc.Unsafe::defineAnonymousClass`，
+  這代表未來的版本會移除掉。
+  同樣地，Java 語言並不會因為這個提案而有所改變。
+
+* [Z Garbage Collector][ZGC]（[ZGC]）將從實現性質的功能轉變成產品。
+  2018 年 9 月整合進 [JDK 11] 的 ZGC 是一個可拓展、低延遲的 GC。
+  ZGC 以實驗性功能的身份導入，
+  是因為 Java 開發人員認為 ZGC 的大小與複雜度應該小心地逐步帶入。
+  從那之後補強了許多部份，
+  ranging from concurrent class unloading,
+  uncommitting of unused memory,
+  and support for data-class sharing to improved
+  NUMA awareness and multi-threaded heap pre-touching。
+  heap 的最大值也從 4TB 增加到 16 TB。
+  支援的平台包括 Linux、Windows 與 MacOS。
+
+* text block 在 JDK 14 與 [JDK 13] 都出過 preview 版，
+  要讓 Java 程式碼當中撰寫多行字串的工作便得簡單、
+  同時避免大多數情況下的 escape sequence。
+  一個 text block 是多行的字串，其中不包含 escape sequence、
+  自動用可預測的方式格式化、
+  並且提供開發人員控制格式的能力。
+  A goal of the text blocks proposal is enhancing
+  the readability of strings in Java programs
+  that denote code written in non-Java languages.
+  Another goal is to support migration
+  from string literals by stipulating
+  that any new construct can express the same set of strings
+  as a string literal, interpret the same escape sequences,
+  and be manipulated in the same fashion as a string literal.
+  OpenJDK 開發人員希望增加 escape sequence
+  以管理明確的 white space 以及換行符號。
+
+* [Shenandoah low-pause-time garbage collector] 從實驗性的功能轉變成產品。
+  這在 [JDK 12] 時候導入，已經經過一年了。
+
+* 移除 [Nashorn]。（細節略）
+
+* [Deprecation of the RMI Activation mechanism]（細節略）
+
+
+[Java Development Kit 15]: <a href="https://openjdk.java.net/projects/jdk/15/" target="_blank" rel="noreferrer noopener nofollow">https://openjdk.java.net/projects/jdk/15/</a>
+[JDK 14]: <a href="https://www.infoworld.com/article/3436795/jdk-14-the-new-features-in-java-14.html" target="_blank" rel="noreferrer noopener nofollow">https://www.infoworld.com/article/3436795/jdk-14-the-new-features-in-java-14.html</a>
+[foreign memory 存取 API]: <a href="https://openjdk.java.net/jeps/383" target="_blank" rel="noreferrer noopener nofollow">https://openjdk.java.net/jeps/383</a>
+[sealed class]: <a href="https://openjdk.java.net/jeps/360" target="_blank" rel="noreferrer noopener nofollow">https://openjdk.java.net/jeps/360</a>
+[record]: <a href="https://openjdk.java.net/jeps/384" target="_blank" rel="noreferrer noopener nofollow">https://openjdk.java.net/jeps/384</a>
+[Edwards-Curve Digital Signature Algorithm (EdDSA)]: <a href="https://openjdk.java.net/jeps/339" target="_blank" rel="noreferrer noopener nofollow">https://openjdk.java.net/jeps/339</a>
+[重新實做古老的 DatagramSocket API]: <a href="https://openjdk.java.net/jeps/373" target="_blank" rel="noreferrer noopener nofollow">https://openjdk.java.net/jeps/373</a>
+[Project Loom]: <a href="https://www.infoworld.com/article/3230507/java-jdk-10-what-new-features-to-expect-in-the-next-java.html" target="_blank" rel="noreferrer noopener nofollow">https://www.infoworld.com/article/3230507/java-jdk-10-what-new-features-to-expect-in-the-next-java.html</a>
+[關掉 biased locking]: <a href="https://openjdk.java.net/jeps/374" target="_blank" rel="noreferrer noopener nofollow">https://openjdk.java.net/jeps/374</a>
+[`instanceof` 的 pattern matching]: <a href="https://openjdk.java.net/jeps/375" target="_blank" rel="noreferrer noopener nofollow">https://openjdk.java.net/jeps/375</a>
+[hidden class]: <a href="https://www.infoworld.com/article/3520792/hidden-classes-could-be-coming-to-java.html" target="_blank" rel="noreferrer noopener nofollow">https://www.infoworld.com/article/3520792/hidden-classes-could-be-coming-to-java.html</a>
+[access control nest]: <a href="https://openjdk.java.net/jeps/181" target="_blank" rel="noreferrer noopener nofollow">https://openjdk.java.net/jeps/181</a>
+[ZGC]: <a href="https://openjdk.java.net/jeps/377" target="_blank" rel="noreferrer noopener nofollow">https://openjdk.java.net/jeps/377</a>
+[JDK 11]: <a href="https://www.infoworld.com/article/3265447/java-jdk-11-all-the-new-features-now-available.html" target="_blank" rel="noreferrer noopener nofollow">https://www.infoworld.com/article/3265447/java-jdk-11-all-the-new-features-now-available.html</a>
+[JDK 13]: <a href="https://www.infoworld.com/article/3340052/jdk-13-the-new-features-in-java-13.html" target="_blank" rel="noreferrer noopener nofollow">https://www.infoworld.com/article/3340052/jdk-13-the-new-features-in-java-13.html</a>
+[Shenandoah low-pause-time garbage collector]: <a href="https://www.infoworld.com/article/2888189/red-hat-shenandoah-boosts-java-garbage-collection.html" target="_blank" rel="noreferrer noopener nofollow">https://www.infoworld.com/article/2888189/red-hat-shenandoah-boosts-java-garbage-collection.html</a>
+[JDK 12]: <a href="https://www.infoworld.com/article/3301197/jdk-12-the-new-features-in-java-12.html" target="_blank" rel="noreferrer noopener nofollow">https://www.infoworld.com/article/3301197/jdk-12-the-new-features-in-java-12.html</a>
+[Nashorn]: <a href="https://www.infoworld.com/article/3279893/nashorn-javascript-engine-for-jvm-could-be-axed.html" target="_blank" rel="noreferrer noopener nofollow">https://www.infoworld.com/article/3279893/nashorn-javascript-engine-for-jvm-could-be-axed.html</a>
+[Deprecation of the RMI Activation mechanism]: <a href="https://openjdk.java.net/jeps/385" target="_blank" rel="noreferrer noopener nofollow">https://openjdk.java.net/jeps/385</a>
+
+
+--
+錢鍾書：    <span class="f0 hl">說出來的話</span>
+                                                  <a href="http://www.psmonkey.org" target="_blank" rel="noreferrer noopener nofollow"><span class="hl">http://www.psmonkey.org</span></a>
+    <span class="f0 hl">比不上</span>不說出來的話
+                                                  Hiking / Singapore 板
+  <span class="f0 hl">只影射著</span><span class="hl">說不出來的話</span>
+                                                  <span class="f0 hl">and more......</span>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.39.40.175 (臺灣)
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Translate-CS/M.1593620987.A.CB3.html" target="_blank" rel="noreferrer noopener nofollow">https://www.ptt.cc/bbs/Translate-CS/M.1593620987.A.CB3.html</a>
+</span></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Translate-CS/M.1593620987.A.CB3.html?cacheKey=2149-739910678&amp;offset=8086&amp;offset-sig=bd7ae8f3269b1ce529ae528a1084c3f917b97289" data-longpollurl="/v1/longpoll?id=d4f800928c90cb11bd81a9040e286dc98eef3b2a" data-offset="8086"></div>
+    
+
+    
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.27/bbs.js"></script>
+
+    <script type="text/javascript">(function(){window['__CF$cv$params']={r:'7106b45e7c2b1eab',m:'Z408tHQCUmQJz5Kjsc7h061wBkdCZPU0paEA4Y0RZq0-1653402367-0-AYkl1ES2xuAg7rLqZb1yAgIlPbeK1XG7jX8rrEJbaWJcX8uSecIlmpgAtplf8Go/IuLPQcgdNcbKORuwxTvVclbW++r7tTr35iiGeHkFmqEiD9EasccNyP2FYbU+6pZSTQd7VTBiRVu4N2JcS9NmP7D8ln3oq08iHaYsel3r6Z4L',s:[0xac0fe7ab92,0x189ba34287],}})();</script></body>
+</html>

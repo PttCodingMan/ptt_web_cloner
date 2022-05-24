@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>分類看板 - 批踢踢實業坊</title>
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-print.css" media="print">
+
+
+
+
+	<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+    <body>
+		
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/bbs/">批踢踢實業坊</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+
+<div id="main-container">
+	<div id="action-bar-container">
+		<div class="action-bar">
+			<div class="btn-group btn-group-cls">
+				<a class="btn" href="/bbs/hotboards.html">熱門看板</a>
+                <a class="btn selected" href="/cls/1">分類看板</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="b-list-container action-bar-margin bbs-screen">
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Math_Basket/index.html">
+                <div class="board-name">Math_Basket</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">數學</div>
+                <div class="board-title">&#9678;中華健兒把夢追  北京奧運奪金歸</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/NTU-MSA/index.html">
+                <div class="board-name">NTU-MSA</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">數學</div>
+                <div class="board-title">&#9678;台大數學系學生會</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/NTUMath-bad/index.html">
+                <div class="board-name">NTUMath-bad</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">數學</div>
+                <div class="board-title">&#9678;變強沒有捷徑，除了練習還是練習</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/NTUMath-Fire/index.html">
+                <div class="board-name">NTUMath-Fire</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">數學</div>
+                <div class="board-title">&#9678;數學系系火板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/NTUMath-Good/index.html">
+                <div class="board-name">NTUMath-Good</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">數學</div>
+                <div class="board-title">&#9678;台大數學系棒-子靖好帥 </div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/NTUMath100/index.html">
+                <div class="board-name">NTUMath100</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">數學</div>
+                <div class="board-title">&#9678;B00</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/NTUMath101/index.html">
+                <div class="board-name">NTUMath101</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">數學</div>
+                <div class="board-title">&#9678;(非數學系的)網宣一律收至精華區</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/NTUMath90/index.html">
+                <div class="board-name">NTUMath90</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">數學</div>
+                <div class="board-title">&#9678;逼90   這裡不是數學問題版</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/NTUMath91/index.html">
+                <div class="board-name">NTUMath91</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">數學</div>
+                <div class="board-title">&#9678; 請不要2010 7/11加班  謝謝</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/NTUMath92/index.html">
+                <div class="board-name">NTUMath92</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">數學</div>
+                <div class="board-title">&#9678;數學 B92</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/NTUMath93/index.html">
+                <div class="board-name">NTUMath93</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">數學</div>
+                <div class="board-title">&#9678;數學系93級 廣告文Tab 其他去醉月</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/NTUMath94/index.html">
+                <div class="board-name">NTUMath94</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">數學</div>
+                <div class="board-title">&#9678;數學系大十四版</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/NTUMath95/index.html">
+                <div class="board-name">NTUMath95</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">數學</div>
+                <div class="board-title">&#9678;歡樂的B95數學系系版</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/NTUMath97/index.html">
+                <div class="board-name">NTUMath97</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">數學</div>
+                <div class="board-title">&#9678;b97</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/NTUMath98/index.html">
+                <div class="board-name">NTUMath98</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">數學</div>
+                <div class="board-title">&#9678;數學系b98版 碩一/大五/當兵/工作</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/NTUMath99/index.html">
+                <div class="board-name">NTUMath99</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">數學</div>
+                <div class="board-title">&#9678;數學系-b992010xx[網宣請標示]</div>
+            </a>
+        </div>
+        
+	</div>
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.27/bbs.js"></script>
+
+    <script type="text/javascript">(function(){window['__CF$cv$params']={r:'7106b4396e0914cc',m:'e.ryOVgc7IJxSQMz_ImDsGxHR.ui_LN75eeV5VP1yXQ-1653402361-0-AcsvfwZ57YYTY2vrEfsFB4WYNuzf+h7XS1N0hG+zhV78s31d9CCPFIpNamP5Y8xGBqtWvEpb1F5o9q7Rx04QK++JRXUFnlYcb3GLk5GJfriIU8tI8cOYjNcsqULxi+KJIw==',s:[0xde094d98a8,0x5b38e5496d],}})();</script></body>
+</html>

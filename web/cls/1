@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>分類看板 - 批踢踢實業坊</title>
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-print.css" media="print">
+
+
+
+
+	<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+    <body>
+		
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/bbs/">批踢踢實業坊</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+
+<div id="main-container">
+	<div id="action-bar-container">
+		<div class="action-bar">
+			<div class="btn-group btn-group-cls">
+				<a class="btn" href="/bbs/hotboards.html">熱門看板</a>
+                <a class="btn selected" href="/cls/1">分類看板</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="b-list-container action-bar-margin bbs-screen">
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/2870">
+                <div class="board-name">A_Group</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">一一</div>
+                <div class="board-title">&#931;市民廣場     報告站長 PTT咬我</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/3297">
+                <div class="board-name">B_Group</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">一一</div>
+                <div class="board-title">&#931;臺灣大學     臺大, 臺大, 臺大        </div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/3290">
+                <div class="board-name">C_Group</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">一一</div>
+                <div class="board-title">&#931;政治大學     政大, 政大, 政大</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/899">
+                <div class="board-name">D_Group</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">一一</div>
+                <div class="board-title">&#931;青蘋果樹     校園, 班板, 社團</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/2141">
+                <div class="board-name">F_Group</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">一一</div>
+                <div class="board-title">&#931;活動中心     社團, 聚會, 團體 </div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/801">
+                <div class="board-name">G_Group</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">一一</div>
+                <div class="board-title">&#931;視聽劇場     偶像, 音樂, 廣電</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/802">
+                <div class="board-name">H_Group</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">一一</div>
+                <div class="board-title">&#931;戰略高手     遊戲, 數位, 程設  </div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/1056">
+                <div class="board-name">I_Group</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">一一</div>
+                <div class="board-title">&#931;卡漫夢工廠   卡通, 漫畫, 動畫</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/806">
+                <div class="board-name">J_Group</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">一一</div>
+                <div class="board-title">&#931;生活娛樂館   生活, 娛樂, 心情  </div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/3362">
+                <div class="board-name">K_Group</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">一一</div>
+                <div class="board-title">&#931;國家研究院   政治, 文學, 學術</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/807">
+                <div class="board-name">L_Group</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">一一</div>
+                <div class="board-title">&#931;國家體育場   汗水, 鬥志, 膽識   </div>
+            </a>
+        </div>
+        
+	</div>
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.27/bbs.js"></script>
+
+    <script type="text/javascript">(function(){window['__CF$cv$params']={r:'7106b4274b5a80c3',m:'v5Alwk6DDyhpTKW9NFVLMnh.m4GzPd7U3NegHdIpA4k-1653402358-0-AeoFgl5zu5kHHxWwnCJ1Ghmm8bznbkuRw4xsoAewEajXWHEOLtCEEXYDZGzh7Yy21Sdj468wJEwevqycKiyTPgjX8TSyxjRjex5snBqyLRSQcsxg9mZGJEsPPsZVZNImSw==',s:[0x40d60d0f10,0x0e5bf01dee],}})();</script></body>
+</html>

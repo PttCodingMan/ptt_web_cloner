@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>分類看板 - 批踢踢實業坊</title>
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-print.css" media="print">
+
+
+
+
+	<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+    <body>
+		
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/bbs/">批踢踢實業坊</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+
+<div id="main-container">
+	<div id="action-bar-container">
+		<div class="action-bar">
+			<div class="btn-group btn-group-cls">
+				<a class="btn" href="/bbs/hotboards.html">熱門看板</a>
+                <a class="btn selected" href="/cls/1">分類看板</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="b-list-container action-bar-margin bbs-screen">
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/RomanceGame/index.html">
+                <div class="board-name">RomanceGame</div>
+                <div class="board-nuser">3</div>
+                <div class="board-class">主題</div>
+                <div class="board-title">&#9678;女性向戀愛遊戲，等妳喔0///0</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/True-Escape/index.html">
+                <div class="board-name">True-Escape</div>
+                <div class="board-nuser">2</div>
+                <div class="board-class">主題</div>
+                <div class="board-title">&#9678;[逃脫] 京介[神]傑[佛]瑞睡[魔]</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/GAMEMUSIC/index.html">
+                <div class="board-name">GAMEMUSIC</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">音樂</div>
+                <div class="board-title">&#9678;電玩音樂板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Sub_GTopics/index.html">
+                <div class="board-name">Sub_GTopics</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">組務</div>
+                <div class="board-title">&#9678;綜合主題小組(GameTopics)組務版</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/DMM_GAMES/index.html">
+                <div class="board-name">DMM_GAMES</div>
+                <div class="board-nuser"><span class="hl">117</span></div>
+                <div class="board-class">遊戲</div>
+                <div class="board-title">&#9678;[DMMG] JCB卡目前仍可正常消費</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Dynasty/index.html">
+                <div class="board-name">Dynasty</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">綜合</div>
+                <div class="board-title">&#9678;[漢堂] 漢堂魂永不滅</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Falcom/index.html">
+                <div class="board-name">Falcom</div>
+                <div class="board-nuser">3</div>
+                <div class="board-class">綜合</div>
+                <div class="board-title">&#9678;[Falcom] 黎之軌跡II 2022.09發售</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/ForeignGame/index.html">
+                <div class="board-name">ForeignGame</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">綜合</div>
+                <div class="board-title">&#9678;☆外國遊戲板☆ 歡迎遊戲實況貼文</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Game-Talk/index.html">
+                <div class="board-name">Game-Talk</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">綜合</div>
+                <div class="board-title">&#9678;※《遊戲綜合討論板》※</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/GameDesign/index.html">
+                <div class="board-name">GameDesign</div>
+                <div class="board-nuser">2</div>
+                <div class="board-class">綜合</div>
+                <div class="board-title">&#9678;[給姆滴賽] 是擅長做遊戲的朋友呢</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Gamesale/index.html">
+                <div class="board-name">Gamesale</div>
+                <div class="board-nuser"><span class="hl">132</span></div>
+                <div class="board-class">綜合</div>
+                <div class="board-title">&#9678;[GS]售徵多項商品請個別標價</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/H-GAME/index.html">
+                <div class="board-name">H-GAME</div>
+                <div class="board-nuser"><span class="hl f3">34</span></div>
+                <div class="board-class">綜合</div>
+                <div class="board-title">&#9678;H-GAME板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Koei/index.html">
+                <div class="board-name">Koei</div>
+                <div class="board-nuser"><span class="hl f3">43</span></div>
+                <div class="board-class">綜合</div>
+                <div class="board-title">&#9678;[光榮] 太閤立志傳V DX 正式發售</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Little-Games/index.html">
+                <div class="board-name">Little-Games</div>
+                <div class="board-nuser">10</div>
+                <div class="board-class">綜合</div>
+                <div class="board-title">&#9678;[小遊戲版] 天熱在家玩遊戲</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/MusicGame/index.html">
+                <div class="board-name">MusicGame</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">綜合</div>
+                <div class="board-title">&#9678;[音Ｇ] 音樂遊戲版</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Old-Games/index.html">
+                <div class="board-name">Old-Games</div>
+                <div class="board-nuser"><span class="hl f3">18</span></div>
+                <div class="board-class">綜合</div>
+                <div class="board-title">&#9678;[懷舊] 老遊戲</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/RealPlaying/index.html">
+                <div class="board-name">RealPlaying</div>
+                <div class="board-nuser">2</div>
+                <div class="board-class">綜合</div>
+                <div class="board-title">&#9678;Ω美式RPG版Ω</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/RPGMaker/index.html">
+                <div class="board-name">RPGMaker</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">綜合</div>
+                <div class="board-title">&#9678;RPG製作大師版</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/SOFTSTAR/index.html">
+                <div class="board-name">SOFTSTAR</div>
+                <div class="board-nuser">1</div>
+                <div class="board-class">綜合</div>
+                <div class="board-title">&#9678;[大宇] </div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Suckgame/index.html">
+                <div class="board-name">Suckgame</div>
+                <div class="board-nuser">1</div>
+                <div class="board-class">綜合</div>
+                <div class="board-title">&#9678;[Suckgame] 歡迎光臨遊戲吐槽板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/AviationGame/index.html">
+                <div class="board-name">AviationGame</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">模擬</div>
+                <div class="board-title">&#9678;[模擬] 歡迎光臨飛行遊戲版！</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/SLG/index.html">
+                <div class="board-name">SLG</div>
+                <div class="board-nuser">1</div>
+                <div class="board-class">模擬</div>
+                <div class="board-title">&#9678;策略模擬遊戲板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/PM/index.html">
+                <div class="board-name">PM</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">養成</div>
+                <div class="board-title">&#9678;美少女夢工場</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Paradox/index.html">
+                <div class="board-name">Paradox</div>
+                <div class="board-nuser"><span class="hl f3">11</span></div>
+                <div class="board-class">戰略</div>
+                <div class="board-title">&#9678; Victoria III goes brrrrrrrrrrr</div>
+            </a>
+        </div>
+        
+	</div>
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.27/bbs.js"></script>
+
+    <script type="text/javascript">(function(){window['__CF$cv$params']={r:'7106b450af9c341a',m:'OyMXUH2.50vvdMbdomKUfQvDjXQEcbmiSgLvp66jigs-1653402365-0-Afga/T6UHn7z+NjyxvvX8tnOokNh71gdXBJRtJ9XaPEeoSfhfky5VRD8QW7HIYrX1TzNgWVUIdmZ9AD/uXcdGBP6mhpJPVnaMDCYo//S9f9hfaRBGVJDUMS7UxIHR7oV8Q==',s:[0x4b6d31c353,0xaa2883e8ed],}})();</script></body>
+</html>

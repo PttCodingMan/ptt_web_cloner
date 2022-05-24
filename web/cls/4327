@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>分類看板 - 批踢踢實業坊</title>
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-print.css" media="print">
+
+
+
+
+	<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+    <body>
+		
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/bbs/">批踢踢實業坊</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+
+<div id="main-container">
+	<div id="action-bar-container">
+		<div class="action-bar">
+			<div class="btn-group btn-group-cls">
+				<a class="btn" href="/bbs/hotboards.html">熱門看板</a>
+                <a class="btn selected" href="/cls/1">分類看板</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="b-list-container action-bar-margin bbs-screen">
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Emulator/index.html">
+                <div class="board-name">Emulator</div>
+                <div class="board-nuser">6</div>
+                <div class="board-class">主機</div>
+                <div class="board-title">&#9678;[模擬器] 板主請假 0801 ~ 0820</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Modchip/index.html">
+                <div class="board-name">Modchip</div>
+                <div class="board-nuser">3</div>
+                <div class="board-class">主機</div>
+                <div class="board-title">&#9678;[改機] 嚴 禁 討 論 盜 版</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/NDS/index.html">
+                <div class="board-name">NDS</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">主機</div>
+                <div class="board-title">&#9678;[3)DS] 今年5/23起停止信用卡儲值</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Nintendo/index.html">
+                <div class="board-name">Nintendo</div>
+                <div class="board-nuser">2</div>
+                <div class="board-class">主機</div>
+                <div class="board-title">&#9678;[任板] NSO多元成家</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/NSwitch/index.html">
+                <div class="board-name">NSwitch</div>
+                <div class="board-nuser"><span class="hl">165</span></div>
+                <div class="board-class">主機</div>
+                <div class="board-title">&#9678;[NS] Nintendo Switch Sports</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/PlayStation/index.html">
+                <div class="board-name">PlayStation</div>
+                <div class="board-nuser"><span class="hl">567</span></div>
+                <div class="board-class">主機</div>
+                <div class="board-title">&#9678;[PS5] 在家玩遊戲 自 主 應 變</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Pocket/index.html">
+                <div class="board-name">Pocket</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">主機</div>
+                <div class="board-title">&#9678;掌上電玩板 目前有限制開放交易文</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/PSP-PSV/index.html">
+                <div class="board-name">PSP-PSV</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">主機</div>
+                <div class="board-title">&#9678;[PSP-PSV] 2022繼續勤洗手戴口罩~</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/XBOX/index.html">
+                <div class="board-name">XBOX</div>
+                <div class="board-nuser"><span class="hl f3">40</span></div>
+                <div class="board-class">主機</div>
+                <div class="board-title">&#9678;[XBOX] Cortana：去你的</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Steam/index.html">
+                <div class="board-name">Steam</div>
+                <div class="board-nuser"><span class="hl">291</span></div>
+                <div class="board-class">平台</div>
+                <div class="board-title">&#9678;本板禁止買賣合購代購代刷</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/UbiSoft/index.html">
+                <div class="board-name">UbiSoft</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">平台</div>
+                <div class="board-title">&#9678;[育碧] UPlay</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Sub_GConsole/index.html">
+                <div class="board-name">Sub_GConsole</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">組務</div>
+                <div class="board-title">&#9678;遊戲主機小組(G_Console)組務板</div>
+            </a>
+        </div>
+        
+	</div>
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.27/bbs.js"></script>
+
+    <script type="text/javascript">(function(){window['__CF$cv$params']={r:'7106b452bfce1eab',m:'hOpsD4MzFYAVcF9y4qSiglwjeELRCY59WLYh89uAa_A-1653402365-0-ASbjoy5EgNcL/ykw4f2+uuHu/zpanqliC9+IMNDbPAgad6hieeMuG3HmHsWme6R+SQpQFNGlr5gnty/rl+7gRNZuDBYzIMNSsriRgtxuD76iKseNsGLBX/M+wx2Ba7cb7Q==',s:[0xd35194d0ea,0xcc52b95a16],}})();</script></body>
+</html>

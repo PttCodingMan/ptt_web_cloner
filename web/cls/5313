@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>分類看板 - 批踢踢實業坊</title>
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-print.css" media="print">
+
+
+
+
+	<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+    <body>
+		
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/bbs/">批踢踢實業坊</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+
+<div id="main-container">
+	<div id="action-bar-container">
+		<div class="action-bar">
+			<div class="btn-group btn-group-cls">
+				<a class="btn" href="/bbs/hotboards.html">熱門看板</a>
+                <a class="btn selected" href="/cls/1">分類看板</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="b-list-container action-bar-margin bbs-screen">
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/MH/index.html">
+                <div class="board-name">MH</div>
+                <div class="board-nuser"><span class="hl f3">45</span></div>
+                <div class="board-class">狩獵</div>
+                <div class="board-title">&#9678;[MH] MHR: Sunbreak 6.30狩獵解禁</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/BattleRoyale/index.html">
+                <div class="board-name">BattleRoyale</div>
+                <div class="board-nuser">3</div>
+                <div class="board-class">射擊</div>
+                <div class="board-title">&#9678;\^^/2021新年快樂\^^/</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/RainbowSix/index.html">
+                <div class="board-name">RainbowSix</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">射擊</div>
+                <div class="board-title">&#9678;[虹彩] Y5S2-鋼流行動</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Shooter-game/index.html">
+                <div class="board-name">Shooter-game</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">射擊</div>
+                <div class="board-title">&#9678;砰砰砰、噠噠噠噠、喀喀 [STG] </div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/ArcSystemFTG/index.html">
+                <div class="board-name">ArcSystemFTG</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">格鬥</div>
+                <div class="board-title">&#9678;要齁的人實在太多了,那就齁天井吧</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/KOF/index.html">
+                <div class="board-name">KOF</div>
+                <div class="board-nuser">7</div>
+                <div class="board-class">格鬥</div>
+                <div class="board-title">&#9678;[拳皇] KOF XV豪華版 2390&gt;1792!</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/LittleFight/index.html">
+                <div class="board-name">LittleFight</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">格鬥</div>
+                <div class="board-title">&#9678;[ＬＦ] 小朋友齊打交(改板名囉) </div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/streetfight/index.html">
+                <div class="board-name">streetfight</div>
+                <div class="board-nuser">2</div>
+                <div class="board-class">格鬥</div>
+                <div class="board-title">&#9678;[快打] 這裡是快打旋風板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/BioHazard/index.html">
+                <div class="board-name">BioHazard</div>
+                <div class="board-nuser">1</div>
+                <div class="board-class">動作</div>
+                <div class="board-title">&#9678;[惡靈] 惡靈古堡HD荼毒玩家中!!!</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Rockman/index.html">
+                <div class="board-name">Rockman</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">動作</div>
+                <div class="board-title">&#9678;[洛克] 洛克人X DiVE正式上架!!</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/SilentHill/index.html">
+                <div class="board-name">SilentHill</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">動作</div>
+                <div class="board-title">&#9678;[沉默之丘] 新作已腰斬</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/SmashBros/index.html">
+                <div class="board-name">SmashBros</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">動作</div>
+                <div class="board-title">&#9678;大亂鬥板-生灰塵中</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Sub_GSports/index.html">
+                <div class="board-name">Sub_GSports</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">組務</div>
+                <div class="board-title">&#9678;運動遊戲小組(G_SportAct)組務板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Sangokumusou/index.html">
+                <div class="board-name">Sangokumusou</div>
+                <div class="board-nuser">1</div>
+                <div class="board-class">無雙</div>
+                <div class="board-title">&#9678;[無雙] 戦国無双５ 6/24發售</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/GE/index.html">
+                <div class="board-name">GE</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">試閱</div>
+                <div class="board-title">&#9678;[噬神]GER連線同樂</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Baseball_Sim/index.html">
+                <div class="board-name">Baseball_Sim</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">運動</div>
+                <div class="board-title">&#9678;OOTP22 夏季特價 50% off NT$284</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/CM/index.html">
+                <div class="board-name">CM</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">運動</div>
+                <div class="board-title">&#9678;Football Manager</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/FBaseball/index.html">
+                <div class="board-name">FBaseball</div>
+                <div class="board-nuser">10</div>
+                <div class="board-class">運動</div>
+                <div class="board-title">&#9678;FBaseball 2022 Play Ball!</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/FIFAseries/index.html">
+                <div class="board-name">FIFAseries</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">運動</div>
+                <div class="board-title">&#9678;       FIFA22</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/MLBGAME/index.html">
+                <div class="board-name">MLBGAME</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">運動</div>
+                <div class="board-title">&#9678;[MLBGAME] PC版黑暗時代</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/NBA_Fantasy/index.html">
+                <div class="board-name">NBA_Fantasy</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">運動</div>
+                <div class="board-title">&#9678;賽季結束 </div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/NBAGAME/index.html">
+                <div class="board-name">NBAGAME</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">運動</div>
+                <div class="board-title">&#9678;NBAGAMES </div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/NBALive/index.html">
+                <div class="board-name">NBALive</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">運動</div>
+                <div class="board-title">&#9678;激戰：傳說盃！</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/nineinnings/index.html">
+                <div class="board-name">nineinnings</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">運動</div>
+                <div class="board-title">&#9678;9局棒球遊戲板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Powerful_PRO/index.html">
+                <div class="board-name">Powerful_PRO</div>
+                <div class="board-nuser">7</div>
+                <div class="board-class">運動</div>
+                <div class="board-title">&#9678;[パワ] </div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Pttcoach/index.html">
+                <div class="board-name">Pttcoach</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">運動</div>
+                <div class="board-title">&#9678;中職風雲總教頭（已停止營運）</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/TennisGame/index.html">
+                <div class="board-name">TennisGame</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">運動</div>
+                <div class="board-title">&#9678;Matchpoint - Tennis 7/7 上市</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/WCCF/index.html">
+                <div class="board-name">WCCF</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">運動</div>
+                <div class="board-title">&#9678;World Club Champion Football</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/WINNING_11/index.html">
+                <div class="board-name">WINNING_11</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">運動</div>
+                <div class="board-title">&#9678;eFootball PES</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Yakyu_spirit/index.html">
+                <div class="board-name">Yakyu_spirit</div>
+                <div class="board-nuser">1</div>
+                <div class="board-class">運動</div>
+                <div class="board-title">&#9678;野球魂2019～魂を呼び覚ませ！</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Ace-Combat/index.html">
+                <div class="board-name">Ace-Combat</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">遊戲</div>
+                <div class="board-title">&#9678;板友請自重 不然可是會被擊落的!!</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/GTA/index.html">
+                <div class="board-name">GTA</div>
+                <div class="board-nuser">3</div>
+                <div class="board-class">遊戲</div>
+                <div class="board-title">&#9678;[GTA] 快上線找俄羅斯人打球阿</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Kojima/index.html">
+                <div class="board-name">Kojima</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">遊戲</div>
+                <div class="board-title">&#9678;小島版◎導演剪輯版</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Mario/index.html">
+                <div class="board-name">Mario</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">遊戲</div>
+                <div class="board-title">&#9678;Jump Up, Super Star!</div>
+            </a>
+        </div>
+        
+	</div>
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.27/bbs.js"></script>
+
+    <script type="text/javascript">(function(){window['__CF$cv$params']={r:'7106b4526a6a1d5b',m:'mE0Yyr44gDBnK8zzTTCHt2KZLkdJIvuBLmwxmQM3yvM-1653402365-0-AQ2R3taXz/l1FKaXrW5JQBreYuVO6GgqF2UPWhpGJOOeCvkUgtFkOte7dZee1r2QGlkmDNCC6GCyALre02dfFeJV1D1WljRqebMjw48ShG8AOPo76/7JrEwpJNQFzMRSlQ==',s:[0x32f0903636,0xe7ff81877b],}})();</script></body>
+</html>

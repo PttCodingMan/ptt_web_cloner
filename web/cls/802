@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>分類看板 - 批踢踢實業坊</title>
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-print.css" media="print">
+
+
+
+
+	<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+    <body>
+		
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/bbs/">批踢踢實業坊</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+
+<div id="main-container">
+	<div id="action-bar-container">
+		<div class="action-bar">
+			<div class="btn-group btn-group-cls">
+				<a class="btn" href="/bbs/hotboards.html">熱門看板</a>
+                <a class="btn selected" href="/cls/1">分類看板</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="b-list-container action-bar-margin bbs-screen">
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/4326">
+                <div class="board-name">DigitalLife</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">生活</div>
+                <div class="board-title">&#931;數位 生活 電腦</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/1187">
+                <div class="board-name">System</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">系統</div>
+                <div class="board-title">&#931;系統 架站 教學</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/1594">
+                <div class="board-name">Z_Archived</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">封存</div>
+                <div class="board-title">&#931;看板資料封存區</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/9458">
+                <div class="board-name">DigitalTech</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">科技</div>
+                <div class="board-title">&#931;生活 科技 家電</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/12054">
+                <div class="board-name">ComGame-Serv</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">組務</div>
+                <div class="board-title">&#931;戰略高手服務中心</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/1189">
+                <div class="board-name">DigitalWare</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">軟體</div>
+                <div class="board-title">&#931;軟體 應用 技巧</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/1186">
+                <div class="board-name">CompScience</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">程式</div>
+                <div class="board-title">&#931;程設 資科 資工</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/3731">
+                <div class="board-name">PlayingGame</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">遊戲</div>
+                <div class="board-title">&#931;遊戲 棋藝 橋牌</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/4327">
+                <div class="board-name">G_Console</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">電玩</div>
+                <div class="board-title">&#931;主機 平台 模擬</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/4518">
+                <div class="board-name">G_Mobile</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">電玩</div>
+                <div class="board-title">&#931;手遊 滑機 低頭</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/4325">
+                <div class="board-name">G_Online</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">電玩</div>
+                <div class="board-title">&#931;虛擬 線上 遨遊</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/5311">
+                <div class="board-name">G_RolePlay</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">電玩</div>
+                <div class="board-title">&#931;傳說 史詩 扮演</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/5313">
+                <div class="board-name">G_SportAct</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">電玩</div>
+                <div class="board-title">&#931;運動 動作 射擊</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/4330">
+                <div class="board-name">G_Strategy</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">電玩</div>
+                <div class="board-title">&#931;軍事 戰略 即時</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/5303">
+                <div class="board-name">GameTopics</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">綜合</div>
+                <div class="board-title">&#931;綜合 主題 人文</div>
+            </a>
+        </div>
+        
+	</div>
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.27/bbs.js"></script>
+
+    <script type="text/javascript">(function(){window['__CF$cv$params']={r:'7106b44bbec480c3',m:'m_6y.yH1plQ_ON3RqTPDefUn36Uds0bIUIaQh3CZFjM-1653402364-0-ARme6630+AnCAoAyom4FqITNL1qDnH/05Tn48eTSZTphvU1d2NWelgjd7Ardv/KtHmDsdDQsY3O6Ymh/ueCNdf2a5lbCbZl4hyPSQcYFQVjZ8BLdf7I037URcFrURbFrCA==',s:[0x0a429e8421,0x7eb89e7dfc],}})();</script></body>
+</html>

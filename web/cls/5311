@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>分類看板 - 批踢踢實業坊</title>
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-print.css" media="print">
+
+
+
+
+	<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+    <body>
+		
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/bbs/">批踢踢實業坊</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+
+<div id="main-container">
+	<div id="action-bar-container">
+		<div class="action-bar">
+			<div class="btn-group btn-group-cls">
+				<a class="btn" href="/bbs/hotboards.html">熱門看板</a>
+                <a class="btn selected" href="/cls/1">分類看板</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="b-list-container action-bar-margin bbs-screen">
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/DragonQuest/index.html">
+                <div class="board-name">DragonQuest</div>
+                <div class="board-nuser">3</div>
+                <div class="board-class">史詩</div>
+                <div class="board-title">&#9678;勇者鬥惡龍 XII 被選中的命運之炎</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/AnimalForest/index.html">
+                <div class="board-name">AnimalForest</div>
+                <div class="board-nuser">3</div>
+                <div class="board-class">扮演</div>
+                <div class="board-title">&#9678;[動森] 置底閒聊區回來了！</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/FinalFantasy/index.html">
+                <div class="board-name">FinalFantasy</div>
+                <div class="board-nuser">4</div>
+                <div class="board-class">扮演</div>
+                <div class="board-title">&#9678;FINAL FANTASY</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/GrassLand/index.html">
+                <div class="board-name">GrassLand</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">扮演</div>
+                <div class="board-title">&#9678;牧場物語 符文5 9/2中文版上市</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/OgreBattle/index.html">
+                <div class="board-name">OgreBattle</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">扮演</div>
+                <div class="board-title">&#9678;塞諾比亞、羅汀斯與維列利亞</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/pal/index.html">
+                <div class="board-name">pal</div>
+                <div class="board-nuser">2</div>
+                <div class="board-class">扮演</div>
+                <div class="board-title">&#9678;[仙劍] 仙七上市!!!</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Sacred/index.html">
+                <div class="board-name">Sacred</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">扮演</div>
+                <div class="board-title">&#9678;Sacred-聖域破壞神 </div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/SRW/index.html">
+                <div class="board-name">SRW</div>
+                <div class="board-nuser">10</div>
+                <div class="board-class">扮演</div>
+                <div class="board-title">&#9678;[SRW] 超 級 機 器 人 大 戰 板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/SWORD/index.html">
+                <div class="board-name">SWORD</div>
+                <div class="board-nuser">1</div>
+                <div class="board-class">扮演</div>
+                <div class="board-title">&#9678;軒轅劍柒 上市中</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/TalesSeries/index.html">
+                <div class="board-name">TalesSeries</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">扮演</div>
+                <div class="board-title">&#9678;[Tales] TOAR榮獲TGA年度最佳PRG</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/TheSims/index.html">
+                <div class="board-name">TheSims</div>
+                <div class="board-nuser">2</div>
+                <div class="board-class">扮演</div>
+                <div class="board-title">&#9678;[Sim] 防疫區就像遊戲隨處可建</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/UJ-RPG/index.html">
+                <div class="board-name">UJ-RPG</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">扮演</div>
+                <div class="board-title">&#9678;幻三-天元異事錄試玩版5月3日關服</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/WindFantasy/index.html">
+                <div class="board-name">WindFantasy</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">扮演</div>
+                <div class="board-title">&#9678;[風色] </div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/GuJian/index.html">
+                <div class="board-name">GuJian</div>
+                <div class="board-nuser">1</div>
+                <div class="board-class">角色</div>
+                <div class="board-title">&#9678;[古劍/神舞] 古劍OL公測開始</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/HeluoGame/index.html">
+                <div class="board-name">HeluoGame</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">角色</div>
+                <div class="board-title">&#9678;[河洛]俠隱閣期待發售</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Sub_RolePlay/index.html">
+                <div class="board-name">Sub_RolePlay</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">組務</div>
+                <div class="board-title">&#9678;角色扮演小組(G_RolePlay)組務板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Spore/index.html">
+                <div class="board-name">Spore</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">遊戲</div>
+                <div class="board-title">&#9678;搶香料也要記得關心服貿</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Simcity/index.html">
+                <div class="board-name">Simcity</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">模擬</div>
+                <div class="board-title">&#9678;精華區施工中</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Minecraft/index.html">
+                <div class="board-name">Minecraft</div>
+                <div class="board-nuser">5</div>
+                <div class="board-class">礦藝</div>
+                <div class="board-title">&#9678;[麥塊] 舉辦樂透囉~預測.19何時上</div>
+            </a>
+        </div>
+        
+	</div>
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.27/bbs.js"></script>
+
+    <script type="text/javascript">(function(){window['__CF$cv$params']={r:'7106b452682f80a5',m:'IfUuaXLKiMxCK7zwvYTLUXuQ3.vWDIvLCAGi1Q5iWDM-1653402365-0-AWTIBK3UNFswNkVtMfjZoorDcXS82ouCNXcdoMmlBh/7bh5TpctKUfxRWdm78aZktuhThqDH8DlP2AiXxHsniOCNsbD5HZ4ew4pJSdT9wFAtblMO0vUig9XiQBmF83PLkw==',s:[0x7efa894e9f,0xdca0072988],}})();</script></body>
+</html>

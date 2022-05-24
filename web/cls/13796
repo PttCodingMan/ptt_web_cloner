@@ -1,0 +1,571 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>分類看板 - 批踢踢實業坊</title>
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-print.css" media="print">
+
+
+
+
+	<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+    <body>
+		
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/bbs/">批踢踢實業坊</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+
+<div id="main-container">
+	<div id="action-bar-container">
+		<div class="action-bar">
+			<div class="btn-group btn-group-cls">
+				<a class="btn" href="/bbs/hotboards.html">熱門看板</a>
+                <a class="btn selected" href="/cls/1">分類看板</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="b-list-container action-bar-margin bbs-screen">
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Bioindustry/index.html">
+                <div class="board-name">Bioindustry</div>
+                <div class="board-nuser">4</div>
+                <div class="board-class"> BIO</div>
+                <div class="board-title">&#9678;生物科技產業中心</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/HRM/index.html">
+                <div class="board-name">HRM</div>
+                <div class="board-nuser">2</div>
+                <div class="board-class">人資</div>
+                <div class="board-title">&#9678;工時玩法還可以轉多少個彎??</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Civil/index.html">
+                <div class="board-name">Civil</div>
+                <div class="board-nuser"><span class="hl f3">13</span></div>
+                <div class="board-class">土木</div>
+                <div class="board-title">&#9678;[土木]-手動刪文 永久水桶</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/L_LifeJob/index.html">
+                <div class="board-name">L_LifeJob</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">小組</div>
+                <div class="board-title">&#9678;職場甘苦談組務板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Engineer/index.html">
+                <div class="board-name">Engineer</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">工作</div>
+                <div class="board-title">&#9678;[攻城獅] 工程師的生活</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Oversea_Job/index.html">
+                <div class="board-name">Oversea_Job</div>
+                <div class="board-nuser"><span class="hl f3">23</span></div>
+                <div class="board-class">工作</div>
+                <div class="board-title">&#9678;[海外工作板]</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/P_Management/index.html">
+                <div class="board-name">P_Management</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">工作</div>
+                <div class="board-title">&#9678;專案/產品管理 討論板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Property_M/index.html">
+                <div class="board-name">Property_M</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">工作</div>
+                <div class="board-title">&#9678;物業管理板(物管/保全/清潔/機電)</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Soft_Job/index.html">
+                <div class="board-name">Soft_Job</div>
+                <div class="board-nuser"><span class="hl">83</span></div>
+                <div class="board-class">工作</div>
+                <div class="board-title">&#9678;[軟工] 魯夫:首抽才是最重要的</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/soho/index.html">
+                <div class="board-name">soho</div>
+                <div class="board-nuser">10</div>
+                <div class="board-class">工作</div>
+                <div class="board-title">&#9678;[soho] 務必填寫酬勞時薪試算</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/SW_Job/index.html">
+                <div class="board-name">SW_Job</div>
+                <div class="board-nuser">1</div>
+                <div class="board-class">工作</div>
+                <div class="board-title">&#9678;[ 社 工 ]  </div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Tech_Job/index.html">
+                <div class="board-name">Tech_Job</div>
+                <div class="board-nuser"><span class="hl">953</span></div>
+                <div class="board-class">工作</div>
+                <div class="board-title">&#9678;[科技] 虎年開工戳鼻孔了嗎?</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/translator/index.html">
+                <div class="board-name">translator</div>
+                <div class="board-nuser">2</div>
+                <div class="board-class">工作</div>
+                <div class="board-title">&#9678;[譯案] 徵到後請改標題為[已徵到]</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Volunteer/index.html">
+                <div class="board-name">Volunteer</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">工作</div>
+                <div class="board-title">&#9678;[志工] 疫情嚴峻，自薦將重新普查</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/WorkinChina/index.html">
+                <div class="board-name">WorkinChina</div>
+                <div class="board-nuser"><span class="hl f3">13</span></div>
+                <div class="board-class">工作</div>
+                <div class="board-title">&#9678;核酸檢測醫院資訊分享請見置底文</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/CMstudents/index.html">
+                <div class="board-name">CMstudents</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">中醫</div>
+                <div class="board-title">&#9678;中醫學生板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/PublicServan/index.html">
+                <div class="board-name">PublicServan</div>
+                <div class="board-nuser"><span class="hl">65</span></div>
+                <div class="board-class">公職</div>
+                <div class="board-title">&#9678;[公職] 公務人員板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/gardener/index.html">
+                <div class="board-name">gardener</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">幼教</div>
+                <div class="board-title">&#9678;[幼教] 國家未來的守護者</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Marketing/index.html">
+                <div class="board-name">Marketing</div>
+                <div class="board-nuser">1</div>
+                <div class="board-class">行銷</div>
+                <div class="board-title">&#9678;[行銷板] 媒體、流量、市場、廣告</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/job/index.html">
+                <div class="board-name">job</div>
+                <div class="board-nuser"><span class="hl f3">39</span></div>
+                <div class="board-class">求職</div>
+                <div class="board-title">&#9678;要求先提供照片 一律刪文水桶一週</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/JOB-Hunting/index.html">
+                <div class="board-name">JOB-Hunting</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">求職</div>
+                <div class="board-title">&#9678;求職板歡迎分享求職經驗甘苦談 </div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/part-time/index.html">
+                <div class="board-name">part-time</div>
+                <div class="board-nuser"><span class="hl">69</span></div>
+                <div class="board-class">求職</div>
+                <div class="board-title">&#9678;[打工] 111/01/01起 工資 168/hr</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/ServiceInfo/index.html">
+                <div class="board-name">ServiceInfo</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">服務</div>
+                <div class="board-title">&#9678;服務業討論板 發文前請詳閱置底文</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/part-timeBM/index.html">
+                <div class="board-name">part-timeBM</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">板務</div>
+                <div class="board-title">&#9678;[打工] 逾七日或分身申訴不受理</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/DirectSales/index.html">
+                <div class="board-name">DirectSales</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">直銷</div>
+                <div class="board-title">&#9678;[傳銷] 嚴禁交易拉人/歡迎純討論</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Finance/index.html">
+                <div class="board-name">Finance</div>
+                <div class="board-nuser"><span class="hl">95</span></div>
+                <div class="board-class">金融</div>
+                <div class="board-title">&#9678;金融業板 &#34;&#34;維持國家正常運作&#34;&#34;</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/unemployed/index.html">
+                <div class="board-name">unemployed</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">待業</div>
+                <div class="board-title">&#9678;待業板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Lawyer/index.html">
+                <div class="board-name">Lawyer</div>
+                <div class="board-nuser"><span class="hl f3">11</span></div>
+                <div class="board-class">律師</div>
+                <div class="board-title">&#9678;[律師] </div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/HomeTeach/index.html">
+                <div class="board-name">HomeTeach</div>
+                <div class="board-nuser"><span class="hl f3">12</span></div>
+                <div class="board-class">家教</div>
+                <div class="board-title">&#9678;[徵師] 發文前請詳閱板規</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/need_student/index.html">
+                <div class="board-name">need_student</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">家教</div>
+                <div class="board-title">&#9678;[徵生] 發文前請先看版規</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/tutor/index.html">
+                <div class="board-name">tutor</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">家教</div>
+                <div class="board-title">&#9678;歡迎來到 家教諮詢板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Tour-Manager/index.html">
+                <div class="board-name">Tour-Manager</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">旅行</div>
+                <div class="board-title">&#9678;[導遊領隊] 發文前先看板規置底文</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/FiremanLife/index.html">
+                <div class="board-name">FiremanLife</div>
+                <div class="board-nuser">2</div>
+                <div class="board-class">消防</div>
+                <div class="board-title">&#9678;[消防] 天佑花蓮 出勤注意安全</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/intltrade/index.html">
+                <div class="board-name">intltrade</div>
+                <div class="board-nuser">1</div>
+                <div class="board-class">國貿</div>
+                <div class="board-title">&#9678;國貿板 發文前請先看置底文!!!</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Gov_owned/index.html">
+                <div class="board-name">Gov_owned</div>
+                <div class="board-nuser"><span class="hl">73</span></div>
+                <div class="board-class">國營</div>
+                <div class="board-title">&#9678;[國營] 上榜心得文徵求ing</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/sp_teacher/index.html">
+                <div class="board-name">sp_teacher</div>
+                <div class="board-nuser">1</div>
+                <div class="board-class">教師</div>
+                <div class="board-title">&#9678;★特教老師--新年快樂，期盼暑假</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/studyteacher/index.html">
+                <div class="board-name">studyteacher</div>
+                <div class="board-nuser"><span class="hl">114</span></div>
+                <div class="board-class">教師</div>
+                <div class="board-title">&#9678;實習教師! 看板規!代理置底推!^0^</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Teacher/index.html">
+                <div class="board-name">Teacher</div>
+                <div class="board-nuser"><span class="hl f3">41</span></div>
+                <div class="board-class">教師</div>
+                <div class="board-title">&#9678;[踢雀] 初夏五月~~</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/teaching/index.html">
+                <div class="board-name">teaching</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">教學</div>
+                <div class="board-title">&#9678;嚴禁補習班與學校徵人</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/toberich/index.html">
+                <div class="board-name">toberich</div>
+                <div class="board-nuser"><span class="hl f3">15</span></div>
+                <div class="board-class">創業</div>
+                <div class="board-title">&#9678;這裡是創業板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Media-work/index.html">
+                <div class="board-name">Media-work</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">媒體</div>
+                <div class="board-title">&#9678;[傳播媒體人] 徵演員文退散!!!</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Salesperson/index.html">
+                <div class="board-name">Salesperson</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">業務</div>
+                <div class="board-title">&#9678;嚴禁徵求保險跟信用卡</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/CS_TEACHER/index.html">
+                <div class="board-name">CS_TEACHER</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">補教</div>
+                <div class="board-title">&#9678;補教老師板－歡迎分享心得 </div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/MIS/index.html">
+                <div class="board-name">MIS</div>
+                <div class="board-nuser">4</div>
+                <div class="board-class">資管</div>
+                <div class="board-title">&#9678;[ＩＴ] 歡迎各界IT到本版討論</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Mechanical/index.html">
+                <div class="board-name">Mechanical</div>
+                <div class="board-nuser">3</div>
+                <div class="board-class">機械</div>
+                <div class="board-title">&#9678;機械板-發文請詳閱版規 違者刪文</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Dietician/index.html">
+                <div class="board-name">Dietician</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">營養</div>
+                <div class="board-title">&#9678;☻歡迎光臨營養師板☁</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/CareerLady/index.html">
+                <div class="board-name">CareerLady</div>
+                <div class="board-nuser">3</div>
+                <div class="board-class">職場</div>
+                <div class="board-title">&#9678;[CL] 防火 防疫 防小人</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Salary/index.html">
+                <div class="board-name">Salary</div>
+                <div class="board-nuser"><span class="hl">142</span></div>
+                <div class="board-class">職場</div>
+                <div class="board-title">&#9678;[職場] 工作職場板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/medache/index.html">
+                <div class="board-name">medache</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">醫藥</div>
+                <div class="board-title">&#9678;醫療心酸</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/medstudent/index.html">
+                <div class="board-name">medstudent</div>
+                <div class="board-nuser"><span class="hl f3">42</span></div>
+                <div class="board-class">醫藥</div>
+                <div class="board-title">&#9678;[醫牙中醫學生板] 請先閱讀置底</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Nurse/index.html">
+                <div class="board-name">Nurse</div>
+                <div class="board-nuser"><span class="hl f3">11</span></div>
+                <div class="board-class">醫藥</div>
+                <div class="board-title">&#9678;   高層這麼帶種請自己下來卡班</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Optometrist/index.html">
+                <div class="board-name">Optometrist</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">醫藥</div>
+                <div class="board-title">&#9678;驗光人員板 落日五年倒數！</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/pharmacist/index.html">
+                <div class="board-name">pharmacist</div>
+                <div class="board-nuser">2</div>
+                <div class="board-class">醫藥</div>
+                <div class="board-title">&#9678;[藥學生藥師板]祝各位第一年考上</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Therapist/index.html">
+                <div class="board-name">Therapist</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">醫藥</div>
+                <div class="board-title">&#9678; 治療師板    徵才請註明薪資</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/petwork/index.html">
+                <div class="board-name">petwork</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">寵物</div>
+                <div class="board-title">&#9678;好的寵物工作者更需要被尊重!</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Broker/index.html">
+                <div class="board-name">Broker</div>
+                <div class="board-nuser">4</div>
+                <div class="board-class">證券</div>
+                <div class="board-title">&#9678;證券期貨從業人員交流園地</div>
+            </a>
+        </div>
+        
+	</div>
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.27/bbs.js"></script>
+
+    <script type="text/javascript">(function(){window['__CF$cv$params']={r:'7106b43179dcaf64',m:'Vlb9MN2Pq66jo.tgDn4yCvORvqxBOfh3KJfoOUTQZg0-1653402360-0-AdCGN1haLzv4SGVacDbG4y+J4U535YA6aj1dZHa9tiW/3bu2JqQU4ndTlpAgR4Qwp3Q44fZzRSyv8LfxJWOTeQ7vLVjRlY7Lt7jIqeF1GxA3/+60xDg39YASS+ygAADf0g==',s:[0x4c7d60d49a,0x791c9ee13e],}})();</script></body>
+</html>

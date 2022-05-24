@@ -1,0 +1,1786 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>分類看板 - 批踢踢實業坊</title>
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-print.css" media="print">
+
+
+
+
+	<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+    <body>
+		
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/bbs/">批踢踢實業坊</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+
+<div id="main-container">
+	<div id="action-bar-container">
+		<div class="action-bar">
+			<div class="btn-group btn-group-cls">
+				<a class="btn" href="/bbs/hotboards.html">熱門看板</a>
+                <a class="btn selected" href="/cls/1">分類看板</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="b-list-container action-bar-margin bbs-screen">
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/BT95A3-4-5-6/index.html">
+                <div class="board-name">BT95A3-4-5-6</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">公訓</div>
+                <div class="board-title">&#9678;95A3~6</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/BT96A9-10/index.html">
+                <div class="board-name">BT96A9-10</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">公訓</div>
+                <div class="board-title">&#9678;公務人員高考三級基礎訓練96A9-10</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/BT97GS14/index.html">
+                <div class="board-name">BT97GS14</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">公訓</div>
+                <div class="board-title">&#9678;公務人員高考&amp;特考三級基礎訓97GS14班</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/BT97TP12-13/index.html">
+                <div class="board-name">BT97TP12-13</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">公訓</div>
+                <div class="board-title">&#9678;公務人員普考基礎訓練97TP12-13班</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/NCSI_98A6/index.html">
+                <div class="board-name">NCSI_98A6</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">公訓</div>
+                <div class="board-title">&#9678;商調函如雪片般飛來的季節</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/NCSI_98AG3/index.html">
+                <div class="board-name">NCSI_98AG3</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">公訓</div>
+                <div class="board-title">&#9678;國家文官培訓所98AG3板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/TPI49/index.html">
+                <div class="board-name">TPI49</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">司訓</div>
+                <div class="board-title">&#9678;司法官訓練所第49期</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/A-SI-53-2T/index.html">
+                <div class="board-name">A-SI-53-2T</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;53期2梯政戰士</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/A-SI-54-3T/index.html">
+                <div class="board-name">A-SI-54-3T</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;許久未見 近況如何</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/A-SI-55-1T/index.html">
+                <div class="board-name">A-SI-55-1T</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;55-1T政戰士</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/A-SI-58/index.html">
+                <div class="board-name">A-SI-58</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;97政戰士版-3t弟兄登出</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/A-SI-95-1T/index.html">
+                <div class="board-name">A-SI-95-1T</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;News:大家過得好嗎???</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/A-SI_2-1T/index.html">
+                <div class="board-name">A-SI_2-1T</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;53期1梯政戰士基地</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/ALS-93-2/index.html">
+                <div class="board-name">ALS-93-2</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;義務役預官經理運輸93期2梯</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/arm54-1_81AR/index.html">
+                <div class="board-name">arm54-1_81AR</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;the end of military service</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/arm55-1_4B2C/index.html">
+                <div class="board-name">arm55-1_4B2C</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;四村二里的小天地 最快樂的時光</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/arm55-1_4B3C/index.html">
+                <div class="board-name">arm55-1_4B3C</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;55-1T四營三連</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/arm55-2_1B2C/index.html">
+                <div class="board-name">arm55-2_1B2C</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;國防役55期二梯1B2C</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/arm55-2_2B1C/index.html">
+                <div class="board-name">arm55-2_2B1C</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;關西55屆2B1C  歡迎報到!</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/arm56-1_2BWP/index.html">
+                <div class="board-name">arm56-1_2BWP</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;關西步二營就是屌兵器連</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/arm56-2_1B1C/index.html">
+                <div class="board-name">arm56-2_1B1C</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;國防役56期二梯1B1C</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/arm56-2_2B3C/index.html">
+                <div class="board-name">arm56-2_2B3C</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;國防役95-2梯903R2B3C</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/arm56-2_3B2C/index.html">
+                <div class="board-name">arm56-2_3B2C</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;國防役95-2梯903R3B2C</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/arm56-2_5B3C/index.html">
+                <div class="board-name">arm56-2_5B3C</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;56-2T三連的預官們進來吧!</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/arm58-2_5B3C/index.html">
+                <div class="board-name">arm58-2_5B3C</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;97-2預官成功嶺9045B3C 倒數59天</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/arm95-3_1B2C/index.html">
+                <div class="board-name">arm95-3_1B2C</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;906R1B2C 校選預財的版</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/army542DrWPN/index.html">
+                <div class="board-name">army542DrWPN</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;預官54-2期老兵連 + 衛勤禿鷹隊</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/army_51-2T/index.html">
+                <div class="board-name">army_51-2T</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;51期2梯步排大閱兵</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/army_52-2T/index.html">
+                <div class="board-name">army_52-2T</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;祝大家新年快樂百分百～～</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/army_53-2T/index.html">
+                <div class="board-name">army_53-2T</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;祝您事業學業蒸蒸日上-請簽通訊錄</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/army_54-1T/index.html">
+                <div class="board-name">army_54-1T</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;步兵預官54-1T 又到了教召的季節</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/army_54-2T/index.html">
+                <div class="board-name">army_54-2T</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;槍機槍機你在哪裡</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/army_55-2T/index.html">
+                <div class="board-name">army_55-2T</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;退伍啦!!!!!!!!!!!!!!</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/army_56-1T/index.html">
+                <div class="board-name">army_56-1T</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;成功嶺56期1梯步兵預官905旅步5營步2連</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/army_56-2T/index.html">
+                <div class="board-name">army_56-2T</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;56-2期步兵預官 各位退伍快樂～～</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/army_57-2T/index.html">
+                <div class="board-name">army_57-2T</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;96-2T 預官版</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/army_58-1T/index.html">
+                <div class="board-name">army_58-1T</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;58-1步官</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/army_58-2T/index.html">
+                <div class="board-name">army_58-2T</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;58-2梯步官（恭喜退伍!!)</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/army_59-1T/index.html">
+                <div class="board-name">army_59-1T</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;98年1梯步兵官</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/army_59-2T/index.html">
+                <div class="board-name">army_59-2T</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;98-2T 預官版</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/army_60-1T/index.html">
+                <div class="board-name">army_60-1T</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;99-1T 步兵預官 教召觀落陰</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Arti-Sir/index.html">
+                <div class="board-name">Arti-Sir</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;57-1(96-1)砲兵預官版！</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Arti53-1t/index.html">
+                <div class="board-name">Arti53-1t</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;退伍生效~~請叫我們老百姓!!</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Arti53-2t/index.html">
+                <div class="board-name">Arti53-2t</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;53期砲兵二梯預官</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Arti54-1t/index.html">
+                <div class="board-name">Arti54-1t</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;54-1 砲兵預官軍團指揮部</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Arti54-2t/index.html">
+                <div class="board-name">Arti54-2t</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;滿懷感激的當砲兵也要支持中華隊</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Arti55_2T/index.html">
+                <div class="board-name">Arti55_2T</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;55期砲兵2梯預官</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Arti59_1T/index.html">
+                <div class="board-name">Arti59_1T</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;各位同學 你們今天招了嗎?</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Avenger2B3C/index.html">
+                <div class="board-name">Avenger2B3C</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;下一個目標是什麼 ??</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/FinanceNCO97/index.html">
+                <div class="board-name">FinanceNCO97</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;97-1&amp;2&amp;3 預財士版 別太熬夜阿~</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/In-Nco-97-2T/index.html">
+                <div class="board-name">In-Nco-97-2T</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;97-2T步兵士官</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Info_54-1T/index.html">
+                <div class="board-name">Info_54-1T</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;54-1系工預官 Are u ready?</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Info_96-1/index.html">
+                <div class="board-name">Info_96-1</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;我們是中華民國的星海軍</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Infor_54_1/index.html">
+                <div class="board-name">Infor_54_1</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;系統工程預士54期一梯</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/MP53-1/index.html">
+                <div class="board-name">MP53-1</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;退伍 五週年紀念日!!</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/MP95-1T/index.html">
+                <div class="board-name">MP95-1T</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;2008年考選憲士95-1聚會!!!</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/MP95-2T/index.html">
+                <div class="board-name">MP95-2T</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;退伍了!朝自己的目標大步邁進吧!</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/MP95-3T/index.html">
+                <div class="board-name">MP95-3T</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;憲兵預士第三梯</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/MP96-1/index.html">
+                <div class="board-name">MP96-1</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;有重要公告唷!!!快點進來看!!!</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/MP96-2T/index.html">
+                <div class="board-name">MP96-2T</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;恭喜登出 BD115</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/MP98-1T/index.html">
+                <div class="board-name">MP98-1T</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;退伍乾掉的板...</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/MP_53-2T/index.html">
+                <div class="board-name">MP_53-2T</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;     整軍飭紀。憲兵所司  MP53-2</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/MP_55/index.html">
+                <div class="board-name">MP_55</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;55期憲官/士交流板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/MP_57/index.html">
+                <div class="board-name">MP_57</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;憲兵預官五七期</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/NPWB3R201/index.html">
+                <div class="board-name">NPWB3R201</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;在成功嶺的日子(預官52期一梯)</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/NTS_55_1T/index.html">
+                <div class="board-name">NTS_55_1T</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;國軍最後一塊樂土</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Paul_52-1t/index.html">
+                <div class="board-name">Paul_52-1t</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;52-1梯 政戰預官交流版</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Paul_53-1T/index.html">
+                <div class="board-name">Paul_53-1T</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;53-1T政戰預官</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Paul_53-2T/index.html">
+                <div class="board-name">Paul_53-2T</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;53期二梯政戰</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Paul_54-2T/index.html">
+                <div class="board-name">Paul_54-2T</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;54期2梯4B1C 政戰預官/特種官科</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Paul_55-2T/index.html">
+                <div class="board-name">Paul_55-2T</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;糟糕捏~~~~~~永遠第一步一連</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Paul_59-1T/index.html">
+                <div class="board-name">Paul_59-1T</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;98-1 政戰　留守沒有假期</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Rice194904/index.html">
+                <div class="board-name">Rice194904</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678; 194梯 904旅我愛夏天</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/SnipeCompany/index.html">
+                <div class="board-name">SnipeCompany</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;52-2T政戰預官俱樂部</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/SS_Service/index.html">
+                <div class="board-name">SS_Service</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;國軍松山醫院勤務隊板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/ST-57-1T/index.html">
+                <div class="board-name">ST-57-1T</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;友 誼 長 存</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Supply96-2/index.html">
+                <div class="board-name">Supply96-2</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;義務役補給預官96-2期</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Supply97-1/index.html">
+                <div class="board-name">Supply97-1</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;義務役補給預官97-1期</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Supply97-2/index.html">
+                <div class="board-name">Supply97-2</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;義務役補給預官97-2期</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Supply_55-1T/index.html">
+                <div class="board-name">Supply_55-1T</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;退伍兩年了....</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/TYOS/index.html">
+                <div class="board-name">TYOS</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">兵役</div>
+                <div class="board-title">&#9678;大家快來報到喲！</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/ITI/index.html">
+                <div class="board-name">ITI</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">貿協</div>
+                <div class="board-title">&#9678;外貿協會培訓中心-ITI/新竹美食</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/bedroom/index.html">
+                <div class="board-name">bedroom</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;愛睡覺的寢室</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/BlueAngel/index.html">
+                <div class="board-name">BlueAngel</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;[北藍] &gt;&gt; 天佑台灣 </div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Carnegie0121/index.html">
+                <div class="board-name">Carnegie0121</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;都沒人了....</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/ccucc/index.html">
+                <div class="board-name">ccucc</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;成景電研老人喝茶部 [Since 2001]</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/CCUFCS-8th/index.html">
+                <div class="board-name">CCUFCS-8th</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;第八屆中正附中山</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Chemcup/index.html">
+                <div class="board-name">Chemcup</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;大專院校化學系盃賽</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/ck14th-flute/index.html">
+                <div class="board-name">ck14th-flute</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;各奔前程囉～</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/CKEFGISC-1st/index.html">
+                <div class="board-name">CKEFGISC-1st</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;建 北 電 資 第 一 屆</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/CKEFGISC-2nd/index.html">
+                <div class="board-name">CKEFGISC-2nd</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;[2nd ] &gt;&gt; 天佑台灣      </div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/CKEFGISC-3rd/index.html">
+                <div class="board-name">CKEFGISC-3rd</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;十屆之前  我不認識你....XD</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/CKEFGISC-5th/index.html">
+                <div class="board-name">CKEFGISC-5th</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;建北電資研5th</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/CKEFGISC-6th/index.html">
+                <div class="board-name">CKEFGISC-6th</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;各奔東西南北，常想春夏秋冬 6th</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/CKEFGISC-8th/index.html">
+                <div class="board-name">CKEFGISC-8th</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;大家都沒啥變嘛 期待下一次再相會</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/CKEFGISC-9th/index.html">
+                <div class="board-name">CKEFGISC-9th</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;築夢踏實 建北電資9th</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/CKEFGISC10th/index.html">
+                <div class="board-name">CKEFGISC10th</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;[10th] &gt;&gt; 天佑台灣</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/CKEFGISC11th/index.html">
+                <div class="board-name">CKEFGISC11th</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;建北電資11屆</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/CKEFGISC12th/index.html">
+                <div class="board-name">CKEFGISC12th</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;譴責暴力 天佑台灣</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/CKTFGroller/index.html">
+                <div class="board-name">CKTFGroller</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;暑假聚會快來留資料</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/ClubChief/index.html">
+                <div class="board-name">ClubChief</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;[社團負責人研習營] </div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/CMU-kendofrd/index.html">
+                <div class="board-name">CMU-kendofrd</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;中國醫劍友會</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/CMU_Guitar42/index.html">
+                <div class="board-name">CMU_Guitar42</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;中國醫弦情吉他社老人秘密集會所</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/CSMU-CM-OP/index.html">
+                <div class="board-name">CSMU-CM-OP</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;中山醫國醫社老人版</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/cvhn/index.html">
+                <div class="board-name">cvhn</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;院老養球排中內</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/CY-Aged02/index.html">
+                <div class="board-name">CY-Aged02</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;二家老祖養老地</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/CYCU_BME33XD/index.html">
+                <div class="board-name">CYCU_BME33XD</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;[夏天]就是要去海邊~~</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/CYCU_ICE90AB/index.html">
+                <div class="board-name">CYCU_ICE90AB</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;神秘老人之家</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/DukeTIP99/index.html">
+                <div class="board-name">DukeTIP99</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;中華健兒把夢追  北京奧運奪金歸</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Elder_CK-CCC/index.html">
+                <div class="board-name">Elder_CK-CCC</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;建中象棋社老人幫!</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/FCU_SB_CLUB/index.html">
+                <div class="board-name">FCU_SB_CLUB</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;殺 =  ，殺很大 =   很大!!</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Flying_UP/index.html">
+                <div class="board-name">Flying_UP</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;最近你(妳)好嗎??</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Foolshome/index.html">
+                <div class="board-name">Foolshome</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;耶耶耶~~~千禧年快快樂樂~~~~~~~~</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/FujitsuCUP/index.html">
+                <div class="board-name">FujitsuCUP</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;訓練影片熱騰騰出爐啦~!!</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/GANDI/index.html">
+                <div class="board-name">GANDI</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;國發院青年研究生聯誼會板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Gold27/index.html">
+                <div class="board-name">Gold27</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;金山假服二十七期</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/havardtour89/index.html">
+                <div class="board-name">havardtour89</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;89哈佛大學遊學團</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/HPAIR/index.html">
+                <div class="board-name">HPAIR</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;2005 HPAIR in Tokyo</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Hu_Yen_2000/index.html">
+                <div class="board-name">Hu_Yen_2000</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;2003戶研大團圓 期待中 嗯嗯*^^*</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Hu_Yen_2004/index.html">
+                <div class="board-name">Hu_Yen_2004</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;格利得島~~我會想念妳的!!</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Hu_Yen_99/index.html">
+                <div class="board-name">Hu_Yen_99</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;99戶研 戶研久久</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Huashin/index.html">
+                <div class="board-name">Huashin</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;華新兒童合唱團</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/HuaXiaYouth/index.html">
+                <div class="board-name">HuaXiaYouth</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;華夏青年交流協會 </div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/IChO-CAMP/index.html">
+                <div class="board-name">IChO-CAMP</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;化奧選訓營</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/IMO_Taiwan/index.html">
+                <div class="board-name">IMO_Taiwan</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;2016數奧IN香港 三金三銀</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/ITI_100B/index.html">
+                <div class="board-name">ITI_100B</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;外貿協會國企培訓班100B</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/junkfood15/index.html">
+                <div class="board-name">junkfood15</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678; </div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/KMU_CIA/index.html">
+                <div class="board-name">KMU_CIA</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;高醫電研聯誼社？ ＠＠</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Lawyer_93-3/index.html">
+                <div class="board-name">Lawyer_93-3</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;律師訓練第13期第3梯</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Lawyer_93-4/index.html">
+                <div class="board-name">Lawyer_93-4</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;律訓第十三期第四梯ꨠ</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/LDS_Dance/index.html">
+                <div class="board-name">LDS_Dance</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;耶穌基督後期聖徒教會土風舞社</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/LEFTBANK/index.html">
+                <div class="board-name">LEFTBANK</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;HaPpY 兔 YeAR!!!</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/lifeguard06/index.html">
+                <div class="board-name">lifeguard06</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;台大06期救生員班</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/lifeguard08/index.html">
+                <div class="board-name">lifeguard08</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;台大08期救生員班</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Loveboat/index.html">
+                <div class="board-name">Loveboat</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;美加營版◎ 2009也順利進行</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/LTTCJapanese/index.html">
+                <div class="board-name">LTTCJapanese</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;倒數開始 迎接2006 Count Down!</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/LuLaLa29th/index.html">
+                <div class="board-name">LuLaLa29th</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;嚕啦啦 Lulala 29th</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/M-Business/index.html">
+                <div class="board-name">M-Business</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;一起邁向全台無線上網的世界！</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/ME-FR_2002/index.html">
+                <div class="board-name">ME-FR_2002</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;械逅法蘭西</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/NCDC/index.html">
+                <div class="board-name">NCDC</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;國發會-版主要結婚了!!</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/NCSU-SUMMER/index.html">
+                <div class="board-name">NCSU-SUMMER</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;新年快樂!!</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/NCTU_basebal/index.html">
+                <div class="board-name">NCTU_basebal</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;交通大學OB棒球隊</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/nine-night/index.html">
+                <div class="board-name">nine-night</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;體驗校園外的現實</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/NTU-HOLATEAM/index.html">
+                <div class="board-name">NTU-HOLATEAM</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;打籃球真快樂!!</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/NTUAL-ARCHER/index.html">
+                <div class="board-name">NTUAL-ARCHER</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;臺大射箭社─退休老人板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/NTUDRC/index.html">
+                <div class="board-name">NTUDRC</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;或許妳是對的</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/NTUGF_Old/index.html">
+                <div class="board-name">NTUGF_Old</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;台大基服---找回陽光沙灘的回憶</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/NTUGT86/index.html">
+                <div class="board-name">NTUGT86</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;亂黨叛軍集散地</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/NTUKS_Elders/index.html">
+                <div class="board-name">NTUKS_Elders</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;醉裡挑燈看劍 </div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/NYU89_memory/index.html">
+                <div class="board-name">NYU89_memory</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;2002新年快樂</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/NYU_2002/index.html">
+                <div class="board-name">NYU_2002</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;缺水狀態</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Old_Egg/index.html">
+                <div class="board-name">Old_Egg</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678; ★ 老蛋版2006-等我回去集合！</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/OLD_Icemen/index.html">
+                <div class="board-name">OLD_Icemen</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;far away from Taipei</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/OLD_STAR/index.html">
+                <div class="board-name">OLD_STAR</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;宇宙中最閃耀的星辰-宇辰康輔 </div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Ordnance54-2/index.html">
+                <div class="board-name">Ordnance54-2</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;小心豬流感~~~</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Peripatos/index.html">
+                <div class="board-name">Peripatos</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;A Clean Well-Lighted Place.</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/roveroldbone/index.html">
+                <div class="board-name">roveroldbone</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;老骨頭版 ...本版活絡化中...</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/SAA2005/index.html">
+                <div class="board-name">SAA2005</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;GMAT study group in 2005</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Sanfu_Gutao/index.html">
+                <div class="board-name">Sanfu_Gutao</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;交大山服老骨頭</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/SciInstitute/index.html">
+                <div class="board-name">SciInstitute</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;基礎科學人才培育計畫</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/SeattleBest/index.html">
+                <div class="board-name">SeattleBest</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;擁抱回憶擁抱愛~西雅圖2002</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/shandong/index.html">
+                <div class="board-name">shandong</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;山東團</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Stanford-99/index.html">
+                <div class="board-name">Stanford-99</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;hi!!</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Taichung34th/index.html">
+                <div class="board-name">Taichung34th</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;台大中友社服34期</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Taichung38th/index.html">
+                <div class="board-name">Taichung38th</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;三八阿花</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Taichung42th/index.html">
+                <div class="board-name">Taichung42th</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;台大中友社服第42期</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/taichung48th/index.html">
+                <div class="board-name">taichung48th</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;台大中友社服48期</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/taoyuansgi/index.html">
+                <div class="board-name">taoyuansgi</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;桃縣の大學會</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/TKU_GF_OB/index.html">
+                <div class="board-name">TKU_GF_OB</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;淡江基服</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/TL-GreatGuy/index.html">
+                <div class="board-name">TL-GreatGuy</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;這裡是宅男版</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/TTSHSCOUT/index.html">
+                <div class="board-name">TTSHSCOUT</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;大同軒轅童軍團</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Whatever/index.html">
+                <div class="board-name">Whatever</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;小豬豬歡迎光臨！</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Yale-00/index.html">
+                <div class="board-name">Yale-00</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;2000耶魯之夏日傾情</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Yale-99/index.html">
+                <div class="board-name">Yale-99</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678; 如果能有重遊耶魯的機會</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/YogaGirls/index.html">
+                <div class="board-name">YogaGirls</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;注意！！詹&#39;s新班招生中～～</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/YOYOGA/index.html">
+                <div class="board-name">YOYOGA</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;LOVE YOGA!just for fun</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/YzuDanceCrew/index.html">
+                <div class="board-name">YzuDanceCrew</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">團體</div>
+                <div class="board-title">&#9678;元智熱舞老人板  老人來報數</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/AGEC-camp/index.html">
+                <div class="board-name">AGEC-camp</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">營隊</div>
+                <div class="board-title">&#9678;滿腔熱血的體育週也要支持中華隊</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/ASAP_1st/index.html">
+                <div class="board-name">ASAP_1st</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">營隊</div>
+                <div class="board-title">&#9678;拒絕菸害，生命更high！</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/ATCC/index.html">
+                <div class="board-name">ATCC</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">營隊</div>
+                <div class="board-title">&#9678;10th ATCC 正.式.啟.動.</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/BWY/index.html">
+                <div class="board-name">BWY</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">營隊</div>
+                <div class="board-title">&#9678;大專青年生命成長營</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/FMPAT/index.html">
+                <div class="board-name">FMPAT</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">營隊</div>
+                <div class="board-title">&#9678;所以...版名應該改成什麼勒？</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/GuiMiscamp/index.html">
+                <div class="board-name">GuiMiscamp</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">營隊</div>
+                <div class="board-title">&#9678;嘉大輔&amp;中正資迎新</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Han-Lin/index.html">
+                <div class="board-name">Han-Lin</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">營隊</div>
+                <div class="board-title">&#9678;翰林小學</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/MBA2003camp7/index.html">
+                <div class="board-name">MBA2003camp7</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">營隊</div>
+                <div class="board-title">&#9678;2003大專企管營第七小隊</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/MY-Camp/index.html">
+                <div class="board-name">MY-Camp</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">營隊</div>
+                <div class="board-title">&#9678;苗栗gogogo</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/NCCU_MandA/index.html">
+                <div class="board-name">NCCU_MandA</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">營隊</div>
+                <div class="board-title">&#9678;我們的友誼要一直下去唷拜託&gt;///&lt;</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/NHLTSC/index.html">
+                <div class="board-name">NHLTSC</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">營隊</div>
+                <div class="board-title">&#9678;內中領才營討論板☎</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/TaiwanSchool/index.html">
+                <div class="board-name">TaiwanSchool</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">營隊</div>
+                <div class="board-title">&#9678;台灣學校青年領袖營</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/TNCF/index.html">
+                <div class="board-name">TNCF</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">營隊</div>
+                <div class="board-title">&#9678;★ 祝福大家 蛇年行大運 ★</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/AMI/index.html">
+                <div class="board-name">AMI</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">醫院</div>
+                <div class="board-title">&#9678;期待下一次組聚..是誰?</div>
+            </a>
+        </div>
+        
+	</div>
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.27/bbs.js"></script>
+
+    <script type="text/javascript">(function(){window['__CF$cv$params']={r:'7106b436dd5aaf64',m:'wP_rRGl7gnFyDBRHXmLRQBHRrCl1YrnRMV_RRyL1alU-1653402361-0-AQsE9owlkgRfHj5gSR+fog2LDzM0u4r5zcSGJN2VFQcXnva7AFC+ZOoh/L+9X5Z2HWd2CXsSyn9WgdyYraxaDFC7Dbp9IW38RFEGhtd4nwmviYqL52N9KqMbIGsxBAguoQ==',s:[0x8b278990f3,0xe232b7d0e1],}})();</script></body>
+</html>

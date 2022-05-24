@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>分類看板 - 批踢踢實業坊</title>
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-print.css" media="print">
+
+
+
+
+	<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+    <body>
+		
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/bbs/">批踢踢實業坊</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+
+<div id="main-container">
+	<div id="action-bar-container">
+		<div class="action-bar">
+			<div class="btn-group btn-group-cls">
+				<a class="btn" href="/bbs/hotboards.html">熱門看板</a>
+                <a class="btn selected" href="/cls/1">分類看板</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="b-list-container action-bar-margin bbs-screen">
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/4843">
+                <div class="board-name">Life_Plan</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">人生</div>
+                <div class="board-title">&#931;人生規劃局 → 人生/理財/考試/證照</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/5575">
+                <div class="board-name">PTTAvenue</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">人群</div>
+                <div class="board-title">&#931;批踢踢大道 → 個人特質/經歷</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/3732">
+                <div class="board-name">SecretGarden</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">心情</div>
+                <div class="board-title">&#931;心情小品集 → 喜/怒/哀/樂</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/9217">
+                <div class="board-name">TaiwanPlaza</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">台灣</div>
+                <div class="board-title">&#931;台灣遊園地 → 台灣各地討論/旅遊</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/4581">
+                <div class="board-name">HappyLiving</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">生活</div>
+                <div class="board-title">&#931;幸福生活趣 → 鬼故事/軍旅/煙</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/12970">
+                <div class="board-name">TradeCenter</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">交換</div>
+                <div class="board-title">&#931;交換買賣區 → 交換/買賣/跳蚤市場</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/4332">
+                <div class="board-name">Relax_Enjoy</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">休閒</div>
+                <div class="board-title">&#931;休閒品味館 → 收藏/車/寵物/攝影</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/4580">
+                <div class="board-name">BoyMeetsGirl</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">男女</div>
+                <div class="board-title">&#931;男女大不同 → 性板/同志/性別議題</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/5569">
+                <div class="board-name">Astrology_12</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">星座</div>
+                <div class="board-title">&#931;十二星座帶 → 十二星座討論區</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/3733">
+                <div class="board-name">FoodAndDrink</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">美食</div>
+                <div class="board-title">&#931;美食新世界 → 美食/咖啡/烹飪</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/4623">
+                <div class="board-name">BeautyCare</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">美容</div>
+                <div class="board-title">&#931;美容保養坊 → 美容/化妝/美體/眼鏡</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/3652">
+                <div class="board-name">Recreation</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">娛樂</div>
+                <div class="board-title">&#931;娛樂不夜城 → 就可/虎爛/娛樂/彩券</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/4331">
+                <div class="board-name">Traveling</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">旅遊</div>
+                <div class="board-title">&#931;旅遊玩樂風 → 旅遊/留學</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/7957">
+                <div class="board-name">PTT_Health</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">健康</div>
+                <div class="board-title">&#931;批踢踢醫院 → 疾病/求診/抗癌</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/5154">
+                <div class="board-name">GlobalView</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">國際</div>
+                <div class="board-title">&#931;世界地球村 → 美國/異國旅遊</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/8171">
+                <div class="board-name">Life_Service</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">組務</div>
+                <div class="board-title">&#931;★★★★★組務處理中心★★★★★</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/3734">
+                <div class="board-name">TalkandChat</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">聊天</div>
+                <div class="board-title">&#931;啃瓜子聊天 → 聯誼/帥哥美女/汪踢</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/4587">
+                <div class="board-name">Life_Info</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">資訊</div>
+                <div class="board-title">&#931;日常資訊站 → 問版/租屋/資訊/尋人</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/4334">
+                <div class="board-name">ShoppingMall</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">購物</div>
+                <div class="board-title">&#931;購物名店街 → 網購/反黑店/時尚</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/13796">
+                <div class="board-name">Life_Job</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">職場</div>
+                <div class="board-title">&#931;職場甘苦談 → 求職/行業/工作/職場</div>
+            </a>
+        </div>
+        
+	</div>
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.27/bbs.js"></script>
+
+    <script type="text/javascript">(function(){window['__CF$cv$params']={r:'7106b42c6d9380a5',m:'9elC_zvQIsIK2jf_q3k9dNdafjSO21kTqgSvwObszMw-1653402359-0-Ad4GXrH6VWO6cn2mQLdjB2z1VN29nqDEAYI+YqeAI1z5fV41piUHkIf4ZbzoFv8k1bk2+lGd72n0KlIYBzqmI6tl27HWNnuUUT1wV+tOlGeXFgmYO/QQSSC6zt6eiKUhAQ==',s:[0xd37ef214a5,0xc55b20ba9b],}})();</script></body>
+</html>

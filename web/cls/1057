@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>分類看板 - 批踢踢實業坊</title>
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-print.css" media="print">
+
+
+
+
+	<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+    <body>
+		
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/bbs/">批踢踢實業坊</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+
+<div id="main-container">
+	<div id="action-bar-container">
+		<div class="action-bar">
+			<div class="btn-group btn-group-cls">
+				<a class="btn" href="/bbs/hotboards.html">熱門看板</a>
+                <a class="btn selected" href="/cls/1">分類看板</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="b-list-container action-bar-margin bbs-screen">
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/XiangSheng/index.html">
+                <div class="board-name">XiangSheng</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">相聲</div>
+                <div class="board-title">&#9678;RIP 相聲大師們 謝謝你們帶來笑聲</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Stage_Buzz/index.html">
+                <div class="board-name">Stage_Buzz</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">組務</div>
+                <div class="board-title">&#9678;舞台區組務板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/BROADWAY/index.html">
+                <div class="board-name">BROADWAY</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">舞臺</div>
+                <div class="board-title">&#9678;百老匯‧歌舞音樂劇的天堂</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Drama/index.html">
+                <div class="board-name">Drama</div>
+                <div class="board-nuser">1</div>
+                <div class="board-class">舞臺</div>
+                <div class="board-title">&#9678;PTT_Drama板，歡迎分享看戲心得</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Drama-Ticket/index.html">
+                <div class="board-name">Drama-Ticket</div>
+                <div class="board-nuser"><span class="hl f3">36</span></div>
+                <div class="board-class">舞臺</div>
+                <div class="board-title">&#9678;藝文票券轉售板 開賣7日內禁徵</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Takarazuka/index.html">
+                <div class="board-name">Takarazuka</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">舞臺</div>
+                <div class="board-title">&#9678;第3回台灣公演圓滿結束 期待第4回</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/dance/index.html">
+                <div class="board-name">dance</div>
+                <div class="board-nuser">1</div>
+                <div class="board-class">舞蹈</div>
+                <div class="board-title">&#9678;舞林天下</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Dance_Sport/index.html">
+                <div class="board-name">Dance_Sport</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">舞蹈</div>
+                <div class="board-title">&#9678;國際標準舞專門討論板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/TWopera/index.html">
+                <div class="board-name">TWopera</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">戲曲</div>
+                <div class="board-title">&#9678;[歌仔] 六月初四彼一日!</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/ZephyrOpera/index.html">
+                <div class="board-name">ZephyrOpera</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">懷舊</div>
+                <div class="board-title">&#9678;臺灣春風歌劇團</div>
+            </a>
+        </div>
+        
+	</div>
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.27/bbs.js"></script>
+
+    <script type="text/javascript">(function(){window['__CF$cv$params']={r:'7106b4301b1680a5',m:'0pLhMIegnME691brJ__nIbQ4zTljsefkuDbqIClXI8U-1653402360-0-AeMMUNa4wXmN1nXF2QKlhuuG2TtG5QgFldPaNp0JcYP7PpO4vcS3OxqQ0c8TSw52zTxfPMXFTXvhXHhnwBcGrujT7UEXqIlBHgpgmG9YiXrtbTWEcEyxcafrHmP9/tswEw==',s:[0x8eac8471a8,0xe9a5fb281e],}})();</script></body>
+</html>

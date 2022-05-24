@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>分類看板 - 批踢踢實業坊</title>
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-print.css" media="print">
+
+
+
+
+	<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+    <body>
+		
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/bbs/">批踢踢實業坊</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+
+<div id="main-container">
+	<div id="action-bar-container">
+		<div class="action-bar">
+			<div class="btn-group btn-group-cls">
+				<a class="btn" href="/bbs/hotboards.html">熱門看板</a>
+                <a class="btn selected" href="/cls/1">分類看板</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="b-list-container action-bar-margin bbs-screen">
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/8126">
+                <div class="board-name">NTUPH_Group</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">公衛</div>
+                <div class="board-title">&#931;公衛系</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/PH_service/index.html">
+                <div class="board-name">PH_service</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">公衛</div>
+                <div class="board-title">&#9678;★公衛小組組務請進─請看置底★</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/BIOSTAT/index.html">
+                <div class="board-name">BIOSTAT</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">生統</div>
+                <div class="board-title">&#9678;[生統] 生物醫學統計組</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/498">
+                <div class="board-name">NTUIEPM</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">流預</div>
+                <div class="board-title">&#931;流預所</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/17724">
+                <div class="board-name">NTUISFH</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">食健</div>
+                <div class="board-title">&#931;食健所</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/17725">
+                <div class="board-name">NTUIHBCS</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">健社</div>
+                <div class="board-title">&#931;健社所</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/17727">
+                <div class="board-name">NTUIHPM</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">健管</div>
+                <div class="board-title">&#931;健管所</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/12742">
+                <div class="board-name">NTUIPH</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">衛政</div>
+                <div class="board-title">&#931;衛政所</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/12743">
+                <div class="board-name">NTUIEH</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">環衛</div>
+                <div class="board-title">&#931;環衛所</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/12736">
+                <div class="board-name">NTUOMIH</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">職衛</div>
+                <div class="board-title">&#931;職衛所</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/12744">
+                <div class="board-name">NTUHCOA</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">醫管</div>
+                <div class="board-title">&#931;醫管所</div>
+            </a>
+        </div>
+        
+	</div>
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.27/bbs.js"></script>
+
+    <script type="text/javascript">(function(){window['__CF$cv$params']={r:'7106b4317e4aaf46',m:'U6QsXeAwL80lCaTKzJKfoJbm1TgUagywLsuBU8Nnp6A-1653402360-0-AbjXi8q2neZa9eyKw1jFwb+rQmPkb6TGZiNcD+vxAIoroPi3lS3E+Ia0jnByVBM4gx8KXuYWv92E45WRayxQYldYa3bBPq5R39p85p6k2jyrPoSb+AygFpBvLMQluWkH1Q==',s:[0x46b8637ff5,0xfbb7d9c6d8],}})();</script></body>
+</html>

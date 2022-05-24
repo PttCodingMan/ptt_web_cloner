@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>分類看板 - 批踢踢實業坊</title>
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-print.css" media="print">
+
+
+
+
+	<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+    <body>
+		
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/bbs/">批踢踢實業坊</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+
+<div id="main-container">
+	<div id="action-bar-container">
+		<div class="action-bar">
+			<div class="btn-group btn-group-cls">
+				<a class="btn" href="/bbs/hotboards.html">熱門看板</a>
+                <a class="btn selected" href="/cls/1">分類看板</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="b-list-container action-bar-margin bbs-screen">
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/NTU_Newboard/index.html">
+                <div class="board-name">NTU_Newboard</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">申請</div>
+                <div class="board-title">&#9678;臺大專屬連署機</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/NTU_Service/index.html">
+                <div class="board-name">NTU_Service</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">組務</div>
+                <div class="board-title">&#9678;臺大看板組務板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/997">
+                <div class="board-name">NTUACOURSE</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">臺大</div>
+                <div class="board-title">&#931;課程 課程/教授/學程</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/199">
+                <div class="board-name">NTUADDD</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">臺大</div>
+                <div class="board-title">&#931;行政 行政/住宿/自治會</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/156">
+                <div class="board-name">NTUBIOAGR</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">臺大</div>
+                <div class="board-title">&#931;生農 生物資源暨農學院</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/4881">
+                <div class="board-name">NTUCSIE</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">臺大</div>
+                <div class="board-title">&#931;大資 臺大資訊系</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/5065">
+                <div class="board-name">NTUDPD</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">臺大</div>
+                <div class="board-title">&#931;進修 中文/外文/歷史/法律/企管</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/520">
+                <div class="board-name">NTUEE</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">臺大</div>
+                <div class="board-title">&#931;電機 電機</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/275">
+                <div class="board-name">NTUENGINER</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">臺大</div>
+                <div class="board-title">&#931;工院 化工/機械/土木/工科/材料</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/196">
+                <div class="board-name">NTULaw</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">臺大</div>
+                <div class="board-title">&#931;法院 法學/司法/財法/社團</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/269">
+                <div class="board-name">NTULiberalAr</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">臺大</div>
+                <div class="board-title">&#931;文院 中/外/史/哲/人/圖/日/戲/臺文</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/3408">
+                <div class="board-name">NTULifeSci</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">臺大</div>
+                <div class="board-title">&#931;生科 生科/生技/生化/動物/植物</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/40">
+                <div class="board-name">NTUManage</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">臺大</div>
+                <div class="board-title">&#931;管院 財金/會計/國企/資管/工管/商研</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/338">
+                <div class="board-name">NTUMEDICIAN</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">臺大</div>
+                <div class="board-title">&#931;醫院 醫/牙/藥/技/物/護/職</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/200">
+                <div class="board-name">NTUPH</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">臺大</div>
+                <div class="board-title">&#931;公衛 公衛</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/195">
+                <div class="board-name">NTUScience</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">臺大</div>
+                <div class="board-title">&#931;理院 數/物/化/地質/地理/心理/大氣</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/6909">
+                <div class="board-name">NTUSocSci</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">臺大</div>
+                <div class="board-title">&#931;社科 政治/經濟/社會/新聞/國發/社工</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/9118">
+                <div class="board-name">NTUTalk</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">臺大</div>
+                <div class="board-title">&#931;閒聊 臺大話題專區</div>
+            </a>
+        </div>
+        
+	</div>
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.27/bbs.js"></script>
+
+    <script type="text/javascript">(function(){window['__CF$cv$params']={r:'7106b42cc9c414cc',m:'3Hx9vye8c76hohUUhFolmTndek6sujMH7Uh3Qk3O._E-1653402359-0-AZCe8Oid/bxTtvfILxuyrGGhX9aUY3E797LD9ekfMtXab7MVG1yP21qLE5h+xkRA1y2pZc79tb2HiobYR5wfBjr/Qej+s0Aj2CcNdbv5zD/C5TahMH7PqIsScFagsmmQWg==',s:[0x2ed8fafbe5,0xe8f37cfa79],}})();</script></body>
+</html>

@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>分類看板 - 批踢踢實業坊</title>
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-print.css" media="print">
+
+
+
+
+	<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+    <body>
+		
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/bbs/">批踢踢實業坊</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+
+<div id="main-container">
+	<div id="action-bar-container">
+		<div class="action-bar">
+			<div class="btn-group btn-group-cls">
+				<a class="btn" href="/bbs/hotboards.html">熱門看板</a>
+                <a class="btn selected" href="/cls/1">分類看板</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="b-list-container action-bar-margin bbs-screen">
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/7367">
+                <div class="board-name">TaiwanBasket</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">台籃</div>
+                <div class="board-title">&#931;台灣籃球群組</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/cls/7395">
+                <div class="board-name">NBAshowtime</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">美籃</div>
+                <div class="board-title">&#931;美國籃球群組</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/BASKET-RULES/index.html">
+                <div class="board-name">BASKET-RULES</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">籃球</div>
+                <div class="board-title">&#9678;★ 籃球規則板 ★ 歡迎交流!</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Basket_5vs5/index.html">
+                <div class="board-name">Basket_5vs5</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">籃球</div>
+                <div class="board-title">&#9678;籃球五對五-約戰</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/basketball/index.html">
+                <div class="board-name">basketball</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">籃球</div>
+                <div class="board-title">&#9678;→買賣文,砍 &amp;本版沒有鍵盤醫生←</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/G-Basketball/index.html">
+                <div class="board-name">G-Basketball</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">籃球</div>
+                <div class="board-title">&#9678;女生打籃球籃球女生打打女生籃球</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/STREET_BALL/index.html">
+                <div class="board-name">STREET_BALL</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">籃球</div>
+                <div class="board-title">&#9678;街頭籃球</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/worldbasket/index.html">
+                <div class="board-name">worldbasket</div>
+                <div class="board-nuser">1</div>
+                <div class="board-class">籃球</div>
+                <div class="board-title">&#9678;[世籃] 奧運籃球競猜遊戲</div>
+            </a>
+        </div>
+        
+	</div>
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.27/bbs.js"></script>
+
+    <script type="text/javascript">(function(){window['__CF$cv$params']={r:'7106b4331909af46',m:'6De2uFSBZh47.IuEMWcSpwQZeED8Su115wKCYKUTxIs-1653402360-0-AXxmGThKiZdCJTQTZqKtICCPXzN4E5UuCXFopFXYLIMA3wRhhtu1rJuPI8rw0RcqMbatm7tjF8MgO3Ocl+uRj3Y26AQsleM06/ijouLayRlluTZasZRiYlhK/d+EIVDw5w==',s:[0x8768dec32c,0x92c17d05ec],}})();</script></body>
+</html>

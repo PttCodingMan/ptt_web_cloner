@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>分類看板 - 批踢踢實業坊</title>
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-print.css" media="print">
+
+
+
+
+	<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+    <body>
+		
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/bbs/">批踢踢實業坊</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+
+<div id="main-container">
+	<div id="action-bar-container">
+		<div class="action-bar">
+			<div class="btn-group btn-group-cls">
+				<a class="btn" href="/bbs/hotboards.html">熱門看板</a>
+                <a class="btn selected" href="/cls/1">分類看板</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="b-list-container action-bar-margin bbs-screen">
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/StarWars/index.html">
+                <div class="board-name">StarWars</div>
+                <div class="board-nuser">4</div>
+                <div class="board-class">科幻</div>
+                <div class="board-title">&#9678;EP9 上映</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/TheMatrix/index.html">
+                <div class="board-name">TheMatrix</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">科幻</div>
+                <div class="board-title">&#9678;駭客任務榮登25年來最佳科幻作品</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Movie-Score/index.html">
+                <div class="board-name">Movie-Score</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">音樂</div>
+                <div class="board-title">&#9678;電影配樂板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/movie_Buzz/index.html">
+                <div class="board-name">movie_Buzz</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">組務</div>
+                <div class="board-title">&#9678;電影區．司法大廳</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/movie_Picket/index.html">
+                <div class="board-name">movie_Picket</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">組務</div>
+                <div class="board-title">&#9678;電影看板專用檢舉板 </div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/movie_Sugges/index.html">
+                <div class="board-name">movie_Sugges</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">組務</div>
+                <div class="board-title">&#9678;電影區．建議討論板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/AnimMovie/index.html">
+                <div class="board-name">AnimMovie</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">電影</div>
+                <div class="board-title">&#9678;[動畫電影板] </div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/AsiaMovies/index.html">
+                <div class="board-name">AsiaMovies</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">電影</div>
+                <div class="board-title">&#9678;Chok Dee</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/boxoffice/index.html">
+                <div class="board-name">boxoffice</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">電影</div>
+                <div class="board-title">&#9678;[票房] </div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Crime_Movie/index.html">
+                <div class="board-name">Crime_Movie</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">電影</div>
+                <div class="board-title">&#9678;犯罪電影版</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Disney/index.html">
+                <div class="board-name">Disney</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">電影</div>
+                <div class="board-title">&#9678;[迪士尼]徵選板主禁止Disney+交易</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/documentary/index.html">
+                <div class="board-name">documentary</div>
+                <div class="board-nuser">1</div>
+                <div class="board-class">電影</div>
+                <div class="board-title">&#9678;　　　紀錄片版</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/HK-movie/index.html">
+                <div class="board-name">HK-movie</div>
+                <div class="board-nuser">2</div>
+                <div class="board-class">電影</div>
+                <div class="board-title">&#9678;[港片] 4/1 張國榮三部經典重映</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Horror/index.html">
+                <div class="board-name">Horror</div>
+                <div class="board-nuser">3</div>
+                <div class="board-class">電影</div>
+                <div class="board-title">&#9678;恐怖片版無酸民  安心發文</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/India-movie/index.html">
+                <div class="board-name">India-movie</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">電影</div>
+                <div class="board-title">&#9678;印度影視蓋天下</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Indie-Film/index.html">
+                <div class="board-name">Indie-Film</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">電影</div>
+                <div class="board-title">&#9678;沒有放假</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/JapanMovie/index.html">
+                <div class="board-name">JapanMovie</div>
+                <div class="board-nuser">2</div>
+                <div class="board-class">電影</div>
+                <div class="board-title">&#9678;[日影] 5/20 兩部上映</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Ourmovies/index.html">
+                <div class="board-name">Ourmovies</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">電影</div>
+                <div class="board-title">&#9678; 【國片版】</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Theater/index.html">
+                <div class="board-name">Theater</div>
+                <div class="board-nuser">4</div>
+                <div class="board-class">電影</div>
+                <div class="board-title">&#9678;[戲院] </div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/movie/index.html">
+                <div class="board-name">movie</div>
+                <div class="board-nuser"><span class="hl">850</span></div>
+                <div class="board-class">綜合</div>
+                <div class="board-title">&#9678;[電影] 請注意 防雷/分類/電影點</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Video/index.html">
+                <div class="board-name">Video</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">影音</div>
+                <div class="board-title">&#9678;[DVD+串流]賀CODA成Oscar最大贏家</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Scenarist/index.html">
+                <div class="board-name">Scenarist</div>
+                <div class="board-nuser">2</div>
+                <div class="board-class">編劇</div>
+                <div class="board-title">&#9678;43屆優良劇本徵件12.28-2021/0201</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Ang_Lee/index.html">
+                <div class="board-name">Ang_Lee</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">導演</div>
+                <div class="board-title">&#9678;Pi 奧斯卡大贏家 最佳導演等四金</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/JeffLau/index.html">
+                <div class="board-name">JeffLau</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">導演</div>
+                <div class="board-title">&#9678;          劉鎮偉板 </div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Nolan/index.html">
+                <div class="board-name">Nolan</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">導演</div>
+                <div class="board-title">&#9678;8月:5記憶拼圖 12全面啟動 27天能</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/TSAIMingLian/index.html">
+                <div class="board-name">TSAIMingLian</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">導演</div>
+                <div class="board-title">&#9678;恭喜蔡導小康奪馬</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/WongKarWai/index.html">
+                <div class="board-name">WongKarWai</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">導演</div>
+                <div class="board-title">&#9678;王家衛的花樣年華</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Artfilm/index.html">
+                <div class="board-name">Artfilm</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">藝術</div>
+                <div class="board-title">&#9678;藝術電影版。版規更新囉</div>
+            </a>
+        </div>
+        
+	</div>
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.27/bbs.js"></script>
+
+    <script type="text/javascript">(function(){window['__CF$cv$params']={r:'7106b4307b3d341a',m:'dy9VlabJxUdl1flvIl944h4ZWv0hLLgchGVZtN724DM-1653402360-0-AWYgG18q8TcYlFVYeyBeXTde7MLEq+/Edgc+JvoBkaV5L5K5cJzONSqcbHvv5uyQRZSoB+q/S+pco4FtK5PDF91QX6q2Vt00g3LWeYtAfS/VFfQP+MB9i4BUziefhBoz9Q==',s:[0x4b6d31c353,0x5af8564f03],}})();</script></body>
+</html>

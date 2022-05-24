@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>分類看板 - 批踢踢實業坊</title>
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-common.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-custom.css">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/pushstream.css" media="screen">
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/bbs/v2.27/bbs-print.css" media="print">
+
+
+
+
+	<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+    <body>
+		
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/bbs/">批踢踢實業坊</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+
+<div id="main-container">
+	<div id="action-bar-container">
+		<div class="action-bar">
+			<div class="btn-group btn-group-cls">
+				<a class="btn" href="/bbs/hotboards.html">熱門看板</a>
+                <a class="btn selected" href="/cls/1">分類看板</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="b-list-container action-bar-margin bbs-screen">
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Campus-plan/index.html">
+                <div class="board-name">Campus-plan</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">台大</div>
+                <div class="board-title">&#9678;校園規劃版-軍刀機&amp;東南區</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/NTU/index.html">
+                <div class="board-name">NTU</div>
+                <div class="board-nuser"><span class="hl f3">15</span></div>
+                <div class="board-class">台大</div>
+                <div class="board-title">&#9678;[臺大] 子瑜豪可愛 &gt;//&lt;</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/NTU_Beauty/index.html">
+                <div class="board-name">NTU_Beauty</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">台大</div>
+                <div class="board-title">&#9678;台大表特板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/NTU_GoodLife/index.html">
+                <div class="board-name">NTU_GoodLife</div>
+                <div class="board-nuser">1</div>
+                <div class="board-class">台大</div>
+                <div class="board-title">&#9678;台大便利生活板-請詳閱置底公告</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/NTU_Hate/index.html">
+                <div class="board-name">NTU_Hate</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">台大</div>
+                <div class="board-title">&#9678;[黑特] 學期加油</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/NTU_NICEBOY/index.html">
+                <div class="board-name">NTU_NICEBOY</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">台大</div>
+                <div class="board-title">&#9678;台大帥哥版</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/NTUmoviefest/index.html">
+                <div class="board-name">NTUmoviefest</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">台大</div>
+                <div class="board-title">&#9678;臺大電影節板(期待再相逢~)</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/NTUMPS/index.html">
+                <div class="board-name">NTUMPS</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">台大</div>
+                <div class="board-title">&#9678;台大城中(醫衛社科)校區生活板</div>
+            </a>
+        </div>
+        
+        <div class="b-ent">
+            <a class="board" href="/bbs/Talk_Service/index.html">
+                <div class="board-name">Talk_Service</div>
+                <div class="board-nuser"></div>
+                <div class="board-class">組務</div>
+                <div class="board-title">&#9678;臺大話題專區組務板</div>
+            </a>
+        </div>
+        
+	</div>
+</div>
+
+		
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+</script>
+
+
+		
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/bbs/v2.27/bbs.js"></script>
+
+    <script type="text/javascript">(function(){window['__CF$cv$params']={r:'7106b4314c22341a',m:'yElCSEczAMPSQ0SZBRs8GWSsmdgFZB2b9NTtZ3d5SsY-1653402360-0-ASBGUrR0ZGKyZ00iqceFD0Glz4kPPphapLfa66g/wAtiYDBojQ5wxCiQDNc077s4lmhujb86sm61grrV+BBT0s4gePnyk8Zq/gv7zMWzzlSMlVFqxjJCzLFyQdHwkTS9JA==',s:[0x2254e6932b,0x62c6aab7ce],}})();</script></body>
+</html>

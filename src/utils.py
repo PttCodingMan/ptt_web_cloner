@@ -8,7 +8,7 @@ def save_page(domain, response: scrapy.http.Response):
     if not url.startswith(domain):
         return
 
-    file_name = f"./web/{url[len(domain):]}"
+    file_name = f"../ptt_web/{url[len(domain):]}"
     if os.path.exists(file_name):
         return
 

@@ -10,7 +10,7 @@ class ClonerSpider(scrapy.Spider):
     name = 'Cloner'
 
     def start_requests(self):
-        self.start_link = 'https://www.ptt.cc/cls/1'
+        self.start_link = 'https://www.ptt.cc/index.html'
         self.domain = 'https://www.ptt.cc/'
 
         self.visited = set()

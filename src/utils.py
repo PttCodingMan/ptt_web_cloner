@@ -23,12 +23,11 @@ def save_page(domain, response: scrapy.http.Response):
         return
 
     if os.path.exists(file_name):
-        if os.path.exists(temp_file_name):
-            os.remove(temp_file_name)
+        os.remove(temp_file_name)
         return
 
     shutil.move(temp_file_name, file_name)
-    # logger.info('move temp', temp_file_name, file_name)
+    logger.info('save page', temp_file_name, file_name)
 
 
 def save_temp(domain, response: scrapy.http.Response):
@@ -37,8 +36,6 @@ def save_temp(domain, response: scrapy.http.Response):
         return
 
     temp_file_name = f"./temp/{url[len(domain):]}"
-    if os.path.exists(temp_file_name):
-        return
 
     file_path = temp_file_name[:temp_file_name.rfind('/') + 1]
 
@@ -47,3 +44,20 @@ def save_temp(domain, response: scrapy.http.Response):
 
     with open(temp_file_name, 'w') as f:
         f.write(response.text)
+
+
+def remove_empty_folders(path, remove_root: bool = False):
+    if not os.path.isdir(path):
+        return
+
+    # remove empty subfolders
+    files = os.listdir(path)
+    if len(files):
+        for f in files:
+            fullpath = os.path.join(path, f)
+            if os.path.isdir(fullpath):
+                remove_empty_folders(fullpath, remove_root=True)
+
+    files = os.listdir(path)
+    if len(files) == 0 and remove_root:
+        os.rmdir(path)

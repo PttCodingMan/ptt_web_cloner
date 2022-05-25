@@ -1,4 +1,5 @@
 import glob
+import os.path
 
 import scrapy
 from SingleLog.log import Logger
@@ -14,8 +15,8 @@ class ClonerSpider(scrapy.Spider):
     name = 'Cloner'
 
     custom_settings = {
-        # 'DOWNLOAD_DELAY': '2',
-        'CONCURRENT_REQUESTS_PER_DOMAIN': '20',
+        # 'DOWNLOAD_DELAY': '0.1',
+        'CONCURRENT_REQUESTS_PER_DOMAIN': '100',
     }
 
     def start_requests(self):
@@ -24,7 +25,9 @@ class ClonerSpider(scrapy.Spider):
 
         self.visited = set()
 
-        self.temp_files = [f"{self.domain}{f[7:]}" for f in glob.glob('./temp/**/*.html', recursive=True)]
+        utils.remove_empty_folders('./temp')
+
+        self.temp_files = [f"{self.domain}{f[7:]}" for f in glob.glob('./temp/**/*', recursive=True) if os.path.isfile(f)]
 
         if self.temp_files:
             for temp_files in self.temp_files:

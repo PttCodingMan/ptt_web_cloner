@@ -7,7 +7,7 @@ from SingleLog.log import Logger
 logger = Logger('utils')
 
 
-def save_page(domain, response: scrapy.http.Response):
+def save_page(domain, response: scrapy.http.Response, temp: bool = False):
     url = response.url
     if not url.startswith(domain):
         return
@@ -18,16 +18,21 @@ def save_page(domain, response: scrapy.http.Response):
     if not os.path.exists(file_path):
         os.makedirs(file_path, exist_ok=True)
 
-    temp_file_name = f"./temp/{url[len(domain):]}"
-    if not os.path.exists(temp_file_name):
-        return
+    if temp:
+        temp_file_name = f"./temp/{url[len(domain):]}"
+        if not os.path.exists(temp_file_name):
+            return
 
-    if os.path.exists(file_name):
-        os.remove(temp_file_name)
-        return
+        if os.path.exists(file_name):
+            os.remove(temp_file_name)
+            return
 
-    shutil.move(temp_file_name, file_name)
-    logger.info('save page', temp_file_name, file_name)
+        shutil.move(temp_file_name, file_name)
+        logger.info('save page', temp_file_name, file_name)
+    else:
+        with open(file_name, 'w') as f:
+            f.write(response.text)
+
 
 
 def save_temp(domain, response: scrapy.http.Response):
